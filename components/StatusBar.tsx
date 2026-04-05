@@ -13,7 +13,7 @@ export default function StatusBar() {
         SYSTEM STATUS: <span style={{ color: 'var(--text-bright)' }}>ONLINE</span>
       </div>
       <div>|</div>
-      <div>ENGINE: <span style={{ color: 'var(--text-bright)' }}>CLAUDE SONNET 4</span></div>
+      <div>ENGINE: <span style={{ color: 'var(--text-bright)' }}>SARVAM AI</span></div>
       <div>|</div>
       <div>KNOWLEDGE BASE: <span style={{ color: 'var(--text-bright)' }}>LOADED</span></div>
       <div>|</div>

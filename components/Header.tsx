@@ -8,7 +8,9 @@ export default function Header() {
 
   useEffect(() => {
     setCaseId("CS-" + Math.floor(Math.random() * 1000000).toString().padStart(6, '0'));
-    setDateStr(new Date().toISOString().split('T')[0]);
+    const date = new Date();
+    const options: Intl.DateTimeFormatOptions = { day: '2-digit', month: 'short', year: 'numeric' };
+    setDateStr(date.toLocaleDateString('en-GB', options).toUpperCase());
   }, []);
 
   return (
@@ -45,7 +47,7 @@ export default function Header() {
           CASE <span style={{ color: 'var(--accent-secondary)', marginLeft: '6px' }}>{caseId}</span>
         </div>
         <div className="font-mono" style={{ border: '1px solid var(--border-light)', padding: '4px 10px', fontSize: '12px', display: 'flex', alignItems: 'center' }}>
-          {dateStr}
+          DATE: {dateStr}
         </div>
         <div className="font-mono" style={{ border: '1px solid var(--accent-primary)', padding: '4px 10px', fontSize: '12px', color: 'var(--accent-primary)', display: 'flex', alignItems: 'center' }}>
           OPERATOR: AUTO

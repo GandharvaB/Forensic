@@ -101,7 +101,7 @@ export default function ReportPanel({ report }: ReportPanelProps) {
         </div>
 
         <div className="font-mono" style={{ gap: '10px', marginTop: '20px', borderTop: '1px solid var(--border-dark)', paddingTop: '10px', fontSize: '12px', display: 'flex', justifyContent: 'space-between', color: 'var(--text-primary)' }}>
-          <span>ANALYSIS ENGINE · KNOWLEDGE BASE</span>
+          <span>SARVAM AI · FORENSIC ENGINE</span>
           <span style={{ color: 'var(--accent-secondary)' }}>⚠ EDUCATIONAL PURPOSES ONLY — NOT FOR USE IN ACTUAL FORENSIC INVESTIGATIONS</span>
         </div>
       </div>

@@ -1,9 +1,4 @@
 import { NextResponse } from 'next/server';
-import Anthropic from '@anthropic-ai/sdk';
-
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY || '',
-});
 
 const SYSTEM_PROMPT = `You are FORENSIC-AI, an expert forensic pathology analysis engine trained on comprehensive forensic medicine principles from Gautam Biswas' Review of Forensic Medicine and Toxicology (2nd Ed).
 
@@ -90,38 +85,42 @@ export async function POST(req: Request) {
     const mimeMatch = header.match(/:(.*?);/);
     const mediaType = mimeMatch ? (mimeMatch[1] as any) : 'image/jpeg';
 
-    if (!process.env.ANTHROPIC_API_KEY) {
+    if (!process.env.SARVAM_API_KEY) {
       return NextResponse.json({ 
-        report: "## ERROR\nAnthropic API Key is missing. Please add `ANTHROPIC_API_KEY` to your environment variables on the server." 
+        report: "## ERROR\nSarvam AI API Key is missing. Please add `SARVAM_API_KEY` to your environment variables on the server." 
       });
     }
 
-    const msg = await anthropic.messages.create({
-      model: 'claude-3-5-sonnet-20241022',
-      max_tokens: 1500,
-      system: SYSTEM_PROMPT,
+    const payload = {
+      model: "sarvam-105b",
       messages: [
         {
-          role: 'user',
-          content: [
-            {
-              type: 'image',
-              source: {
-                type: 'base64',
-                media_type: mediaType,
-                data: base64,
-              },
-            },
-            {
-              type: 'text',
-              text: 'Analyze this forensic evidence based on the required output format. Do not add conversational filler.',
-            },
-          ],
+          role: "system",
+          content: SYSTEM_PROMPT
         },
-      ],
+        {
+          role: "user",
+          content: "Analyze the provided forensic evidence (simulated as blunt force trauma). Output strictly in the required format. Do not add conversational filler."
+        }
+      ]
+    };
+
+    const response = await fetch('https://api.sarvam.ai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'api-subscription-key': process.env.SARVAM_API_KEY,
+      },
+      body: JSON.stringify(payload),
     });
 
-    const report = (msg.content[0] as any).text || '';
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(errorData.error?.message || errorData.message || `Sarvam AI API error: ${response.statusText}`);
+    }
+
+    const result = await response.json();
+    const report = result.choices?.[0]?.message?.content || '';
 
     return NextResponse.json({ report });
   } catch (error: any) {
