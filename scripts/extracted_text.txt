@@ -1,0 +1,3133 @@
+
+
+
+
+Review  ofReview  of
+Review  ofReview  of
+Review  of
+Forensic  Medicine  and  ToxicologyForensic  Medicine  and  Toxicology
+Forensic  Medicine  and  ToxicologyForensic  Medicine  and  Toxicology
+Forensic  Medicine  and  Toxicology
+
+MCQs of Previous Years
+PG Entrance Examinations Included
+®
+Gautam Biswas MD (UCMS)
+Professor  and  Head
+Department  of  Forensic  Medicine  and  Toxicology
+Dayanand  Medical  College  and  Hospital
+Ludhiana,  Punjab,  India
+Review  ofReview  of
+Review  ofReview  of
+Review  of
+Forensic  Medicine  and  ToxicologyForensic  Medicine  and  Toxicology
+Forensic  Medicine  and  ToxicologyForensic  Medicine  and  Toxicology
+Forensic  Medicine  and  Toxicology
+JAYPEE BROTHERS MEDICAL PUBLISHERS (P) LTD
+New Delhi • Panama City • London
+Including Clinical and Pathological Aspects
+SECOND  EDITION
+Forewords
+Joseph A Prahlow
+Anil Aggrawal
+
+Jaypee Brothers Medical Publishers (P) Ltd.
+Headquarter
+Jaypee Brothers Medical Publishers (P) Ltd.
+4838/24,  Ansari  Road,  Daryaganj
+New Delhi 110 002, India
+Phone:  +91-11-43574357
+Fax:  +91-11-43574314
+Email:  jaypee@jaypeebrothers.com
+Overseas  Offices
+J.P. Medical Ltd.Jaypee-Highlights  Medical  Publishers  Inc.
+83 Victoria Street, LondonCity of Knowledge, Bld. 237, Clayton
+SW1H 0HW (UK)Panama  City,  Panama
+Phone:  +44-2031708910Phone:  +507-301-0496
+Fax:  +02-03-0086180Fax:  +507-301-0499
+Email: info@jpmedpub.comEmail:  cservice@jphmedical.com
+Website:  www.jaypeebrothers.com
+Website:  www.jaypeedigital.com
+©  2012,  Jaypee  Brothers  Medical  Publishers
+All rights reserved. No part of this book may be reproduced in any form or by any means without the prior permission of
+the  publisher.
+Inquiries for bulk sales may be solicited at: jaypee@jaypeebrothers.com
+This  book  has  been  published  in  good  faith  that  the  contents  provided  by  the  author  contained  herein  are  original,  and  is
+intended for educational purposes only. While every effort is made to ensure accuracy of information, the publisher and the
+author specifically disclaim any damage, liability, or loss incurred, directly or indirectly, from the use or application of any of
+the contents of this work. If not specifically stated, all figures and tables are courtesy of the author. Where appropriate, the
+readers should consult with a specialist or contact the manufacturer of the drug or device.
+Review of Forensic Medicine and Toxicology
+First Edition: 
+2010
+Second  Edition: 2012
+ISBN  978-93-5025-896-5
+Printed at
+®
+
+Dedicated  to
+My wife Anupama
+and
+son Gaurav
+
+Foreword  to  the  Second  Edition
+The second edition of Review of Forensic Medicine and Toxicology by Gautam Biswas represents
+a  truly  remarkable  accomplishment  within  the  forensic  literature.  This  book  is  written,
+specifically for persons in training and studying for board-type examinations, the text is a
+comprehensive yet concise overview of forensic medicine and toxicology that actually covers
+many  forensic  topics  that  are  largely  ignored  or  only  briefly  mentioned  by  many  other
+forensic  texts.  Examples  include  chapters  dedicated  to  issues,  such  as  decompression,
+radiation and altitude sickness, starvation, anesthetic deaths, torture and custodial deaths,
+as  well  as  many  individual  toxicology  chapters,  such  as  arsenic,  inorganic  metals,  war
+gases and food poisoning among many others. The book represents an excellent resource
+for forensic medicine practitioners, forensic pathologists, toxicologists and others within the
+forensic community.
+The text is divided into two sections: First, Jurisprudence and Forensic Medicine and second is Toxicology, with
+a  total  of  63  Chapters.  Each  chapter  provides  basic  information,  as  well  as  numerous  details,  in  an  easy-to-
+understand,  concise,  and  clear  manner.  An  added  plus  is  the  inclusion  of  clinical  and  therapeutic  information,
+making the text ideal for persons practicing “living” forensic medicine. As a forensic pathologist, I highly recommend
+this book to all forensic pathologists, both those who are in-training and seasoned veterans. The book represents
+an impressive collection of basic forensics intermingled with a multitude of interesting and important facts that are
+not commonly found together in single resource. As such, the book is must have for everyone's forensic reference
+library and highly recommended for those studying for forensic board examinations.
+My  congratulations  to  Gautam  Biswas  for  this  outstanding  forensic  text.
+Joseph A Prahlow
+ MD
+Forensic  Pathologist,  South  Bend  Medical  Foundation
+Professor
+Department  of  Pathology
+Indiana  University,  School  of  Medicine-South  Bend
+at  the  University  of  Notre  Dame
+South  Bend,  Indiana,  USA
+
+Foreword  to  the  Second  Edition
+Forensic medicine is a vast subject, which needs to be explored by an overburdened student
+in very little time available to him. There are several textbooks available in the market, but
+none  gives  information  in  clear,  concise,  pointwise  format.  Many  give  archaic  information,
+which is no more relevant in the current scenario. Still worse, several others give mutually
+conflicting information.
+Forensic  medicine  is  a  rapidly  changing  subject,  and  there  was  a  dire  need  to  look  at  it
+from a fresh angle. It has been my belief that existing books have not been able to do justice
+with this situation. They have existed in the market for a long time, but most authors have
+provided information with no proper structuring or organization of information. Result is that
+the student is often left confused.
+Gautam Biswas is a young author teeming with energy and fresh ideas, who has written this eminently readable
+book. Contrary to official wisdom of presenting information in essay style, he has presented information in a clear,
+concise, pointwise fashion, which is student-friendly. I have gone through the first edition of this book, and found
+all information authentic, precise and to-the-point. During our theory and viva-voce examinations, I saw several
+students  clutching  this  book  in  their  hands  and  I  often  asked  them  what  they  liked  about  the  book.  The  answer
+was virtually uniform, they liked the point-by-point approach of author. I dare say that I like precisely the same
+thing about this book. Whatever information I need for my lectures or court work, I can immediately find it. Such
+is  the  clear  organization  of  this  book.
+I have known Gautam Biswas for more than a decade now, and I have always held him in high esteem as an
+academic  colleague.  I  am  his  ardent  admirer  and  have  always  been  struck  by  his  academic  brilliance.
+I believe, whenever a new textbook comes to the market, the author owes an explanation not only to students
+but also to all his academic colleagues. The question often asked is, “What was the need of a new book, when a
+number of textbooks were already available?” But, fortunately, Dr Gautam Biswas will not have to go through this
+often  embarrassing  exercise.  This  book  is  in  many  ways  different  from  the  existing  textbooks,  and  undoubtedly
+would come as a succor to all the students of this country and abroad. I, certainly, would keep this book on my
+desk  as  a  quick,  authentic  and  reliable  reference.
+Professor Anil Aggrawal 
+MD
+Director-Professor
+Department  of  Forensic  Medicine  and  Toxicology
+Maulana  Azad  Medical  College
+New  Delhi,  India
+
+Foreword  to  the  First  Edition
+It is almost nine years when Dr Gautam Biswas came to meet me with recommendation from Dr BBL Aggarwal,
+Principal (now retired), University College of Medical Sciences and Guru Teg Bahadur (GTB) Hospital, Delhi, India.
+He  joined  as  Lecturer  at  Dayanand  Medical  College  and  in  no  time  I  found  out  that  he  is  an  asset  to  the
+Department due to his updated knowledge in the subject. About three years ago, he sought my advice about writing
+a Textbook of Forensic Medicine and Toxicology for MBBS students. The result is before us in the form of Review
+of  Forensic  Medicine  and  Toxicology.
+All  the  chapters  are  well-written,  easy-to-read  and  in  simple  English.  Definitions  are  easily  understood  and
+wherever required examples have been given.
+Chapter on Medico-legal Autopsy is also useful for all those Medical Officers who have to perform medico-legal
+autopsies  and  postgraduate  (PG)  students  of  Forensic  Medicine  and  Pathology.  Chapters  on  “Injuries,  Regional
+Injuries and Forensic Psychiatry” have been written in a very systematic manner and due consideration has been
+given to medico-legal aspects of injuries. Forensic Psychiatry is totally updated as per the modern classification of
+mental illnesses. Subject of “Thanatology” has been dealt with as per the latest trends giving examples. Latest status
+of Unnatural Sexual Offences in other countries is quite relevant in modern times. Chapter on “Sexual Perversion”
+gives  useful  information.  “DNA  Fingerprinting”—a  highly  technical  subject  will  be  useful  for  the  students  and
+forensic  scientists.  Detailed  discussion  in  the  Identification,  Odontology  and  “Recent  Advances”  like  Polygraph,
+Brain Fingerprinting and Narcoanalysis are quite informative for the undergraduate students of forensic and other
+specialties.
+Chapters  on  Autopsy  Room  Infections,  Postmortem  Artefacts,  Torture  and  Custodial  Deaths  and  Asphyxial
+Deaths are very apt and have made the book quite useful even for PG students of other subjects.
+The chapters on Toxicology are totally updated as per the current protocol and guidelines. Signs & symptoms
+and treatment have been given systematically, which will be quite useful for the emergency medical practitioners
+also.
+Lastly, the concept of MCQs from different PG entrance examinations given at the end of each chapter is quite
+innovative. This will be useful for the 2nd professional students to grasp the subject better as well as for the students
+who  are  preparing  for  various  PG  entrance  examinations.
+I have every confidence that this book will receive warm welcome from the students, especially the undergraduates.
+I  wish  this  book  every  success,  which  it  admirably  deserves.
+Maj. Gen. (Dr) Ajit Singh (Retd)
+MBBS  DCP  MD  (Pathology)  MD  (Forensic  Medicine)  FIAFM
+Ex-Professor  and  Head
+Department  of  Forensic  Medicine  and  Toxicology
+Armed  Forces  Medical  College  (AFMC)
+Pune,  Maharashtra,  India
+Dayanand  Medical  College  and  Hospital  (DMCH)
+Ludhiana, Punjab, India
+
+Preface  to  the  Second  Edition
+I  am  overwhelmed  by  the  response  of  students  to  the  first  edition  Review  of  Forensic  Medicine  and  Toxicology.
+The  text  is  presented  in  a  concise  and  lucid  form  with  line-diagrams,  boxes,  tables,  differentiations  and  flow
+charts designed to make the book interesting-to-read, easy-to-comprehend, recollect and reproduce.
+As  in  the  first  edition,  some  topics  (Identification,  Injuries,  Sexual  Offences,  Forensic  Psychiatry,  General
+Toxicology, Alcohol, Snake Bite Poisoning), which are important from PG entrance point of view, are in more details.
+All  topics  are  updated  and  recent  advances/changes  have  been  incorporated  wherever  needed.  Section  two
+(Toxicology)  has  been  updated  and  some  additional  matter  has  been  added.
+As  a  teacher,  I  am  of  the  view  that  we  should  try  to  prepare  the  student  for  the  forthcoming  PG  entrance
+examination while he/she is going through the curriculum. Hence, like in the previous edition, topic-wise MCQs
+from the last 10 years are given at the end of the chapters. Answers can be referred in the text which is given as
+superscripts.  This  will  not  only  make  the  subject  interesting,  but  also  help  the  reader  to  get  insight  of  that  topic
+and prepare for viva-voce.
+Question Bank I and II (Q-Bank) give a list of important questions, which the students should prepare for the
+professional examination and are based on the latest MBBS curriculum prepared by Directorate General of Health
+Services and Medical Council of India (MCI). There are two separate categories—must know and desirable to know,
+the student may prepare according to the time and can devote to the subject.
+It is my hope that this edition of the book will find favorable response from medical students as earlier and also
+offer significant help to medical practitioners, in-service doctors and forensic scientists. It has been my endeavor
+to keep the book error-free, however, there may be some typographical errors. If the reader comes across any such
+error or wants to send any comment/suggestion, please do write or send an e-mail. It will be duly acknowledged
+in the subsequent edition.
+Gautam  Biswas
+
+Preface  to  the  First  Edition
+During  my  undergraduate  days,  I  felt  that  textbooks  should  contain  necessary  information,  not  have  too  many
+details and should be understood easily, i.e. they should be comprehensive, clear and concise. Keeping this in mind,
+this  book  is  written,  especially  for  undergraduates  and  for  those  preparing  for  the  PG  entrance  test.  The  entire
+concept  of  this  book  is  to  give  information  in  as  few  words  as  possible  without  omitting  necessary  details.
+Some topics (Identification, Injuries, Sexual Offences, Forensic Psychiatry and Toxicology) which are important
+from PG entrance point of view, are in more details. All topics are updated and recent advances/changes have been
+incorporated wherever needed.
+Concise  and  lucid  text  (bullet's  format),  line-diagrams,  boxes,  tables,  differentiations  and  flow  charts  given  at
+appropriate places, are designed to make the book interesting-to-read, easy-to-comprehend, recollect and reproduce.
+The information given in boxes is 'desirable to know', that a student may skip if there is shortage of time or if
+preparing for the professional examination. Rest of the information is 'must know', i.e. one should go through it
+definitely.
+In section two (Toxicology), all the poisons are given in the same format throughout so that the student is able
+to understand and reproduce them during the examination. The section is up-to-date and some additional topics
+have been added for the PG entrance test.
+Topic-wise  MCQs  are  given  at  the  end  of  most  of  the  chapters.  They  are  based  on  the  recall  of  students  who
+appeared in these exams, and will help the reader to get insight of that topic and prepare for the PG entrance. It
+will  also  make  preparation  for  viva-voce  easy  and  interesting  for  the  student.
+Appendices I and II give a list of important questions, which the students should prepare for the professional
+examination and are based on the latest MBBS curriculum prepared by Directorate General of Health Services and
+Medical  Council  of  India  (MCI).  There  are  two  categories—must  know  and  desirable  to  know,  the  student  may
+prepare according to the time and can devote to the subject.
+It is my hope that this new book will find favorable response from medical students and also offer significant
+help  to  medical  practitioners,  in-service  doctors  and  forensic  scientists.
+It has been my endeavor to keep the book error-free, however, there may be some typographical errors. If the
+reader comes across any such error or wants to send any comment/suggestion, please do write or send an e-mail.
+It will be duly acknowledged in the subsequent edition.
+Gautam  Biswas
+
+Acknowledgments
+I am deeply indebted to my teachers late Dr BBL Aggarwal, former Principal and Head; Professor NK Aggarwal,
+present Head; Professor SK Verma; Professor KK Bannerjee; Professor AK Tyagi, and Dr Anil Kohli, Department
+of Forensic Medicine, University College of Medical Sciences (UCMS) and Guru Teg Bahadur (GTB) Hospital, Delhi,
+India  who  taught  me  the  art  of  Forensic  Medicine  and  Toxicology.
+I  am  grateful  to  Maj.  Gen.  (Dr)  Ajit  Singh,  former  Head  of  Forensic  Medicine,  Armed  Forces  Medical  College
+(AFMC), Pune and Dayanand Medical College and Hospital (DMCH), Ludhiana for painstakingly proofreading the
+manuscript  of  first  edition  and  suggesting  changes  wherever  necessary.
+I am highly grateful to Professor Praveen C Sobti of Pediatrics, DMCH for proofreading the text of first edition,
+fixing all the grammatical errors and advising sections that needed re-writing for clarity, despite having a very busy
+schedule  and  in  a  different  specialty.
+Professor  Daljit  Singh,  Principal,  DMCH,  deserves  special  mention  for  his  continuous  inspiration  and
+encouragement and invaluable suggestions.
+I am thankful to Professor Jagjiv Sharma, Director-Principal, Chintpurni Medical College, Pathankot; Professor
+D Harish, Head, Department of Forensic Medicine, GMC, Chandigarh; Professor AU Sheikh (ASCOMS, Jammu);
+Professor SK Dhattarwal (PGI, Rohtak); Professor BR Sharma (Santosh Medical College, Ghaziabad), and Dr Gaurav
+Jain (Vardhman Mahavir Medical College, Safdarjung) for helping me with preparation of the manuscript and for
+their expert guidance.
+I express my thanks to Dr Virendar Pal Singh, Associate Professor, Department of Forensic Medicine, DMCH for
+his valuable suggestions and checking the manuscript whenever needed. He always remained helpful wherever
+I needed.
+I also express my thanks to Professor B Khurana (SGRD, Amritsar); Dr A Chanana (GMC, Amritsar); Dr Parmod
+Goel  (Adesh  Institute  of  Medical  Sciences);  Dr  Rajiv  Joshi  (GMC,  Faridkot);  Professor  RK  Bansal  (SGRRMC,
+Dehradun); Professor Farida Noor (GMC, Srinagar); Professor Anju Gupta (Punjab Institute of Medical Sciences,
+Jalandhar), and Dr Pardeep Singh (People Medical College, Bhopal) for their valuable suggestions and encouragement.
+I  deeply  appreciate  the  invaluable  suggestions  of  some  of  the  senior  reputed  professionals  with  whom  I  had
+lengthy  academic  communications,  which  helped  me  by  discussions,  exchange  of  views  of  the  technical  aspects
+of major parts of the book and resulted in thorough revision by inclusion of their viewpoints. The list includes Dr
+Anil Kohli, Reader, Department of Forensic Medicine, UCMS & GTB Hospital, Delhi whose immeasurable help and
+wisdom  can  never  be  appropriately  or  adequately  acknowledged  and  contributed  to  my  book  in  spite  of  busy
+schedules in work place; Dr Anil Aggrawal, Director-Professor, Department of Forensic Medicine and Toxicology,
+Maulana  Azad  Medical  College,  New  Delhi,  and  Professor  Bhupesh  Khajuria,  Head,  Department  of  Forensic
+Medicine, GMC, Jammu for their inspiration, constant encouragement, critical analysis of the text and suggesting
+modifications wherever required.
+I  wish  to  express  my  solemn  sentiments  and  sincere  gratitude  to  all  the  authors  and  researchers  of  various
+textbooks and journals articles which was referred to, while preparing the manuscript of the book without which
+the  scientific  base  of  facts  mentioned  would  not  have  been  possible.
+It will be an injustice if I do not thank all my students, especially Nipun Bansal and Harnoor Bhardwaj for their
+innovative ideas and feedback. I am grateful to Mr Ramesh Kumar for typing part of the manuscript and helping
+me  with  whatever  work  assigned  to  him  during  the  entire  process  of  preparing  the  manuscript.
+I  am  especially  grateful  to  all  those  working  for  M/s  Jaypee  Brothers  Medical  Publishers  (P)  Ltd,  New  Delhi,
+India, in particular Shri Jitendar P Vij (Chairman and Managing Director), Mr Tarun Duneja (Director-Publishing)
+and Ms Sunita Katla (Publishing Manager).  Ankush Sharma and Rajesh Gurkundi (Graphic Designers) for making
+such  beautiful  line  diagrams,  Ms  Seema  Dogra  for  cover  design,  Mr  Laxmidhar  Padhiary  for  proofreading  and
+Ms  Uma  Adhikari  for  shaping  up  of  this  book  and  making  all  the  changes  whenever  I  suggested,  without  any
+complaints.  I  gratefully  acknowledge  the  assistance  by  this  professional  team.
+
+xviii
+Review of Forensic Medicine and Toxicology
+I express my gratitude to my parents and in-laws for their constant encouragement, support and blessings. Above
+all, I acknowledge with gratitude the support of my wife Anupama and my son to bear with patience and calm
+encouragement during the long hours of my involvement with the manuscript. I want to thank Anupama for her
+untiring  support,  resilience  and  cooperativeness  in  writing  this  book.
+Last but not least, I wish to offer my apologies to all my colleagues and friends whose name has been omitted
+inadvertently, for without their constant support, encouragement and well-wishes, the book would not have been
+completed.
+
+1.  Medical  Jurisprudence  and  Ethics ................ 3
+Medical  Council  of  India  (MCI)    3
+Functions  of  MCI    4
+State  Medical  Council  (SMC)    4
+Duties  of  a  Doctor    5
+Privileged  Communication    8
+Medical  Malpractice    9
+Unethical  Acts    10
+Professional  Misconduct  (Infamous  Conduct)    10
+Erasure  of  Name    11
+Red  Cross  Emblem    12
+Types  of  Physician-Patient  Relationship    12
+Professional  Negligence    13
+Preventing  Medical  Litigation    14
+Defenses  Against  Negligence 16
+Doctrine  of  Res  Ipsa  Loquitur    16
+Calculated  Risk  Doctrine    16
+Doctrine  of  Common  Knowledge    17
+Doctrine  of  Avoidable  Consequence  Rule    17
+Medical  Maloccurrence    17
+Novus  Actus  Interveniens  17
+Contributory  Negligence    17
+Therapeutic  Misadventure/Hazard    17
+Vicarious  Liability/Respondeat  Superior    18
+Corporate  Negligence    18
+Products  Liability    18
+Consent    19
+Medical  Records    21
+Malingering  (Shamming)    21
+Euthanasia  (Mercy  Killing)    22
+2.  Acts  Related  to  Medical  Practice ................ 25
+The  Transplantation  of  Human  Organs  Act,  1994    25
+The  Consumer  Protection  Act,  1986  (CPA)  26
+The  Workmen's  Compensation  Act,  1923    28
+The  Medical  Termination  of  Pregnancy  (MTP)  Act,
+1971    28
+The Prenatal Diagnostic Techniques (PNDT) Act, 1994
+29
+The  Mental  Health  Act,  1987    31
+3.  Legal  Procedure............................................ 34
+Inquest    34
+Police  Inquest    35
+Contents
+Section One
+Jurisprudence  and  Forensic  MedicineJurisprudence  and  Forensic  Medicine
+Jurisprudence  and  Forensic  MedicineJurisprudence  and  Forensic  Medicine
+Jurisprudence  and  Forensic  Medicine
+Magistrate  Inquest    35
+Courts  of  Law    36
+Subpoena  or  Summons    38
+Conduct  Money    38
+Medical  Evidence    38
+Types  of  Witness    40
+Recording  of  Evidence    41
+Conduct and Duties of a Doctor in the Witness Box  42
+4.  Identification  I ................................................ 45
+Corpus  Delicti    45
+Race  and  Religion    45
+Sex    47
+Nuclear  Sexing    47
+Intersex    48
+Sex  from  Skeletal  Remains    51
+Age    55
+Age  from  Ossification  of  Bones    58
+Age  Determination  in  Adults  Over  25  Years    60
+Medico-legal  Importance  of  Age    62
+Stature    62
+Scars    64
+Tattoo  Marks    65
+5.  Identification  II ............................................... 70
+Anthropometry  (Bertillon  System)    70
+Dactylography  (Dactyloscopy)    70
+Poroscopy    73
+Lip  Prints  (Cheiloscopy)    74
+Hair    74
+Superimposition    78
+Forensic  Odontology    78
+Miscellaneous  Methods  of  Identification    80
+6.  Medico-legal Autopsy .................................... 83
+Purpose/Objectives  of  Autopsy    83
+Procedure  for  Medico-legal  Autopsies    84
+Instruments  for  Autopsy  Examination    84
+External  Examination    84
+Internal  Examination    87
+Skin  Incisions    87
+Evisceration  Methods    87
+Examination  Proper    88
+
+Chest    89
+Heart    90
+Neck    92
+Skull  and  Brain    92
+Description  of  an  Organ    94
+Report    94
+Demonstration  of  Pneumothorax    95
+Demonstration  of  Air  Embolus    95
+Collection  of  Samples    96
+Preservation  of  Viscera    96
+Preservation  of  Samples    97
+Samples  for  Laboratory  Investigations    98
+Obscure  and  Negative  Autopsy    99
+Second  Autopsy    99
+Examination   of   Decomposed,   Mutilated   and
+Skeletonized  Remains    99
+Exhumation    101
+7.  Autopsy Room Hazards.............................. 104
+Commonly  Acquired  Infections    104
+Autopsy  of  HIV  Positive  and  HBV  Patients    104
+Autopsy  and  Disposal  of  Radioactive  Corpse    106
+8.  Thanatology................................................. 107
+Brain/Brainstem  Death    107
+Cause,  Mechanism  and  Manner  of  Death    109
+Cause  of  Death    110
+Modes  of  Death  (Proximate  Causes  of  Death)    110
+Anoxia    111
+Sudden  Death    112
+Coronary  Atherosclerosis    113
+9.  Signs  of  Death............................................. 117
+Immediate  Changes  (Somatic  Death)    117
+Suspended  Animation  (Apparent  Death)    118
+Early  Changes  (Molecular  Death)    118
+Cooling  of  the  Dead  Body    119
+Postmortem  Staining    120
+Rigor  Mortis    123
+Cadaveric  Spasm    125
+Heat  Stiffening    125
+Cold  Stiffening    126
+Decomposition/Putrefaction    127
+Decomposition  of  Submerged  Body    130
+Floatation  of  a  Dead  Body  on  Water    130
+Entomology    130
+Adipocere  (Saponification)    131
+Mummification    132
+Estimation of Time Since Death (TSD) or Postmortem
+Interval  (PMI)    132
+Preservation  of  Dead  Bodies    135
+Presumption  of  Survivorship    135
+Presumption  of  Death    135
+10.  Asphyxia....................................................... 138
+Pathophysiology  of  Asphyxia    138
+Etiology  of  Asphyxia    138
+Clinical  Effects  of  Asphyxia    139
+Hanging    140
+Autopsy  of  Neck  (Asphyxial  Deaths)    141
+Postmortem  Findings  in  Hanging    142
+Medico-legal  Questions    144
+Lynching    144
+Judicial  Hanging    145
+Strangulation    145
+Ligature  Strangulation    146
+Postmortem  Examination    146
+Medico-legal  Questions    147
+Throttling  or  Manual  Strangulation    147
+Postmortem  Examination    148
+Medico-legal  Questions    150
+Hyoid  Bone  Fractures    150
+Suffocation    151
+Café-coronary    152
+Drowning    154
+Postmortem  Examination    157
+Medico-legal  Questions    161
+Hyperventilation  Deaths    161
+Sexual Asphyxia (Autoerotic Asphyxia/Hypoxyphilia,
+Asphyxiophilia)    162
+11.  Injuries.......................................................... 165
+Classification  of  Wounds/Injuries    165
+Abrasion    166
+Bruise/Contusion    168
+Lacerated  Wound    172
+Incised  Wound    174
+Chop  Wounds    176
+Stab  Wound    176
+Defense  Wounds    180
+Therapeutic  or  Diagnostic  Wounds    180
+Fabricated  Wounds  (Fictitious/Forged  Wounds)    180
+12.  Firearm  Injuries ........................................... 183
+Classification  of  Firearms    183
+Rifled  Firearms    183
+Smooth  Bore  Firearms/Shotguns    184
+Bore  (Gauge/Calibre)    185
+Bullet    186
+Cartridge    187
+Gunpowders  (Propellant  Charge)    188
+Mechanism  of  Discharge  of  Projectile    189
+Wound  Ballistics  and  Mechanism  of  Injury    189
+Firearm  Wounds    190
+Characteristics  of  Shotgun  Wounds    191
+Characteristics  of  Rifled  Firearms  Wounds    192
+Firearm  Wounds  on  Skull    194
+Exit  Wounds    194
+xx
+Review of Forensic Medicine and Toxicology
+
+Contents
+xxi
+Peculiar  Effects  of  Firearms    195
+Postmortem  Examination    196
+Preservation  and  Marking  of  Exhibits    197
+13.  Regional  Injuries ......................................... 204
+Craniocerebral  Injuries    204
+Soft  Tissue  Injury    204
+Skull  Fractures    205
+Coup  and  Contre-coup  Injury    208
+Brain  Injury    209
+Cerebral  Concussion    209
+Diffuse  Axonal  Injury  (DAI)    210
+Cerebral  Contusion  and  Laceration    211
+Intracranial  Hematoma    212
+Extradural/Epidural  Hematoma  (EDH)    213
+Subdural  Hematoma  (SDH)    214
+Subarachnoid  Hematoma  (SAH)    216
+Intracerebral  Hematoma  (ICH)    218
+Diffuse  Injury  to  the  Brain    219
+Spinal  Cord    221
+Neck    222
+Vertebral  Column    222
+Chest    223
+Lungs    223
+Heart    223
+Abdomen    224
+Kidneys    225
+Bones  and  Joints    226
+14.  Thermal  Injuries .......................................... 232
+Cold  Injury    232
+Heat  Injury    234
+Heat  Hyperpyrexia  or  Heat  Stroke    234
+Burns    236
+Postmortem  Examination    238
+Medico-legal  Questions    241
+Scalds    242
+Electrical  Injuries  (Electrocution)    243
+Judicial  Electrocution    246
+Lightning  Stroke    246
+15.  Transportation Injuries ................................ 249
+Pedestrian  Injuries    249
+Injuries  Sustained  by  Vehicle  Occupants    252
+Role  of  Seat  Belts  and  Air  Bags    253
+Motorcycle  and  Cycle  Injuries    254
+Postmortem  Examination    254
+Alcohol,  Drugs  and  Trauma    255
+Railway  Injuries    255
+16.  Explosion  Injuries  and  Fall  from  Height .. 257
+Explosion  Injuries    257
+Mechanism  of  Action    257
+Classification  of  Injuries    257
+Medico-legal  Aspects    259
+Fall  from  Height    259
+Injury  Patterns    260
+17.  Medico-legal Aspects of Injuries ............... 263
+Simple  Hurt/Injury    264
+Grievous  Hurt/Injury    264
+Punishments    265
+Cause  of  Death  from  Wounds    265
+Medico-legal  Questions    269
+Injury  Report    272
+18.  Decompression,  Radiation  and  Altitude
+Sickness........................................................ 276
+Decompression  Sickness    276
+Autopsy  in  Decompression  Sickness    276
+Ionizing  Radiation  Reactions    276
+Altitude  Illness    278
+19.  Starvation Deaths ........................................ 279
+Mode  of  Starvation    279
+Pathophysiology    279
+Signs  and  Symptoms    279
+Postmortem  Findings    280
+Medico-legal  Questions    280
+20.  Infanticide  and  Child  Abuse ...................... 282
+Postmortem  Examination  of  Infants    282
+Age  of  Fetus    283
+Rule  of  Hasse    285
+Demonstration  of  Centres  of  Ossification    285
+Features  of  Dead-Born  Fetus    285
+Signs  of  Live  Birth    286
+Postmortem  Examination    286
+Infant  Death    289
+Battered  Baby  Syndrome  (Caffey/Maltreatment
+Syndrome)    290
+Sudden  Infant  Death  Syndrome  (SIDS,  Cot  Death  or
+Crib  Death)  293
+21.  Anesthetic Deaths........................................ 296
+Death  during  Administration  of  Anesthesia    296
+Deaths  Directly  Related  to  Administration  of  an
+Anesthetic    296
+Postmortem  Examination    297
+22.  Abortion........................................................ 299
+Classification  of  Abortion    299
+Criminal  Abortion    300
+Complications  of  Criminal  Abortion    302
+Duties of a Doctor in Suspected Criminal Abortion  303
+Examination  of  a  Woman  with  Alleged  History  of
+Abortion    303
+Postmortem  Examination    304
+Trauma  and  Abortion    304
+23.  Impotence  and  Sterility .............................. 306
+Causes  of  Impotence  and  Sterility  in  Males    306
+Causes  of  Impotence  and  Sterility  in  Females    307
+
+xxii
+Review of Forensic Medicine and Toxicology
+Examination  of  a  Person  in  an  Alleged  Case  of
+Impotence  and  Sterility    307
+Sterilization    308
+Artificial  Insemination  (AI)    310
+Surrogate  Mother    312
+24.  Virginity,  Pregnancy  and  Delivery............ 313
+Normal  Female  Anatomy  (in  Virgins)    313
+Medico-legal  Aspects    314
+Presumptive  Signs/Symptoms    315
+Probable  Signs  of  Pregnancy    316
+Positive/Conclusive  Signs  of  Pregnancy    318
+Pseudocyesis  (Spurious/False/Phantom  Pregnancy)
+319
+Superfecundation    319
+Superfetation    319
+Legitimacy  and  Paternity    319
+Signs and Symptoms of Recent Delivery in Living  320
+Signs  of  Remote  Delivery  in  Living    321
+Medico-legal  Aspects  of  Pregnancy  and  Delivery    321
+Nullity  of  Marriage  and  Divorce    322
+25.  Natural  Sexual  Offences ............................ 325
+Rape    325
+Duties  of  a  Doctor  in  case  of  an  Alleged  Victim  of
+Rape    328
+Examination  of  the  Rape  Victim    328
+Examination    329
+Corroborative  Signs  of  Rape    333
+Rape  on  Deflorate/Sexually  Active  Woman    334
+Rape  on  Children    334
+Medico-legal  Questions    336
+Rape  Trauma  Syndrome    336
+Examination  of  Rape  Accused    337
+Incest    338
+Adultery    338
+26.  Unnatural  Sexual  Offences ........................ 340
+Sodomy    340
+Examination  of  Passive  Agent  of  Sodomy    340
+Opinion    342
+Examination  of  Active  Agent  of  Sodomy    342
+Tribadism/Lesbianism    343
+Bestiality  (Zoophilia)    343
+Buccal  Coitus    343
+27.  Sexual Perversions/Deviations.................. 345
+Sadism  (Algolagnia)    345
+Masochism  (Passive  Algolagnia)    345
+Transvestic  Fetishism  (Eonism)    346
+Voyeurism  (Scoptophilia)    346
+Exhibitionism    346
+Fetishism    346
+Frotteurism  (Toucherism)    347
+Pedophilia    347
+Masturbation  (Onanism)    347
+Indecent  Assault    348
+28.  Postmortem Artifacts................................... 349
+Artifacts  due  to  Postmortem  Changes    349
+Third  Party  Artifacts    350
+Environmental  Artifacts    351
+Other  Artifacts    352
+29.  Forensic Psychiatry..................................... 353
+Delusion    353
+Hallucination    354
+Illusion    354
+Impulse    354
+Obsession    355
+Lucid  Interval    355
+Role  of  Forensic  Psychiatrist    356
+Psychiatric  Assessment    357
+Classification of Mental and Behavioral Disorders  358
+Organic  Mental  Disorders    358
+Schizophrenia    359
+Mood  (Affective)  Disorders    361
+Neurotic  and  Somatoform  Disorders    361
+Behavioral  Syndromes    363
+Mental  Retardation    363
+Mental  Disorder  and  Responsibility    364
+30.  Bloodstain Analysis..................................... 371
+Bloodstain  Pattern  Analysis    371
+Presumptive  Tests  for  Blood    371
+Confirmatory  Tests  for  Blood    373
+Species  Identification    374
+Genetic  Markers  in  Blood    375
+Medico-legal  Application  of  Blood  (Groups)    376
+31.  Seminal  Stain  and  Other  Biological
+Samples ........................................................ 380
+Purpose  of  Seminal  Identification    380
+Examination  of  Seminal  Stains    380
+Confirmatory  Tests    382
+Identification  of  Species  Origin    383
+Individualization  of  Seminal  Stains    384
+Identification  of  Biological  Samples  and  Body  Fluids
+384
+32.  DNA Fingerprinting ...................................... 386
+RFLP    386
+PCR    388
+Specimen  Selection  and  Preservation    390
+Uses  of  DNA  Fingerprinting    390
+Limitations  of  DNA  Testing    391
+33.  Torture  and  Custodial Deaths .................... 393
+Types  of  Torture    393
+Medical  Practitioner  and  Torture    395
+Custodial  Deaths    396
+
+Contents
+xxiii
+34.  Medico-legal  Aspects  of  HIV ...................... 397
+HIV  Testing  Policy    397
+Health  Care  Workers  and  HIV  Infection    397
+Partner  Notification    398
+Clinical  Trials  and  HIV    399
+Blood  Donation  and  HIV    399
+36.  General  Toxicology..................................... 411
+Medico-legal  Aspects  of  Poisons    411
+Classification  of  Poisons    412
+Factors  Modifying  the  Action  of  Poisons    413
+Diagnosis  of  Poisoning  in  Living    413
+Diagnosis  of  Poisoning  in  Dead    414
+Failure  to  Detect  Poison    416
+Duties  of  a  Doctor  in  a  Case  of  Suspected  Poisoning
+416
+Management  of  Poisoning  Cases    417
+Removal  of  Unabsorbed  Poison    418
+Administration  of  Antidotes    420
+Elimination  of  Poison  by  Excretion    421
+Samples  Preserved  for  Toxicological  Analysis   422
+37.  Corrosive Poisons........................................ 427
+Mineral  Acids    427
+Vitriolage  (Vitriol  Throwing)    428
+Oxalic  Acid  (Acid  of  Sugar)    429
+Carbolic  Acid  (Phenol)    430
+Strong  Alkalis  (Caustic  Alkalis)    431
+38.  Inorganic Metallic Irritants—Arsenic ......... 433
+Signs  and  Symptoms  (Acute  Poisoning)    433
+Treatment    434
+Postmortem  Findings    435
+Chronic  Arsenic  Poisoning    435
+Postmortem  Imbibition  of  Arsenic    436
+39.  Inorganic  Metallic  Irritants—Mercury ........ 438
+Signs  and  Symptoms  (Acute  Poisoning)    438
+Treatment    439
+Postmortem  Findings    439
+Chronic  Mercury  Poisoning  (Hydrargyrism)    439
+40.  Inorganic  Metallic  Irritants—Lead ............. 441
+Chronic  Lead  Poisoning  (Plumbism/Saturnism)    442
+Signs  and  Symptoms    442
+Treatment    444
+Postmortem  Findings    445
+Section Two
+ToxicologyToxicology
+ToxicologyToxicology
+Toxicology
+41.  Inorganic  Metallic  Irritants—Copper ......... 446
+Signs  and  Symptoms  (Acute  Poisoning)    446
+Treatment    447
+Postmortem  Findings    447
+Chronic  Copper  Poisoning    447
+42.  Inorganic  Metallic  Irritants—Thallium ....... 449
+Signs  and  Symptoms    449
+Treatment    449
+Postmortem  Findings    450
+43.  Other  Inorganic  Metallic  Irritants .............. 451
+Cadmium    451
+Barium    452
+Zinc    452
+Metal  Fume  Fever  (MFF)    453
+Methemoglobinemia  Inducing  Agents    453
+44.  Non-metallic  and  Mechanical  Irritants ..... 455
+Phosphorus    455
+Chronic  Phosphorus  Poisoning    456
+Mechanical  Irritants    456
+45.  Organic  Irritants—Vegetable ...................... 458
+Ricinus  Communis  (Castor)    458
+Croton  Tiglium  (Jamalgota)    459
+Abrus  Precatorius  (Rati,  Gunchi,  Jequirity)    459
+Suis    460
+Semecarpus  Anacardium    460
+Capsicum  Annum    461
+Calotropis  (‘Rubber  Bush’)    461
+Ergot    462
+46.  Organic Irritants—Animal........................... 464
+Snakes    464
+Signs  and  Symptoms  of  Ophitoxemia    467
+Management    469
+Postmortem  Findings    471
+Medico-legal  Aspects    472
+Cantharides  (Spanish  Fly)    472
+Scorpions    472
+Bees  and  Wasps    473
+35.  Newer  Techniques  and  Recent
+Advances................................................... 400
+Polygraph    400
+Brain  Fingerprinting  (Brain  Mapping)    400
+Narco-Analysis    401
+Question  Bank—I............................................. 403
+
+xxiv
+Review of Forensic Medicine and Toxicology
+47.  Somniferous Poisons (Narcotic Poisons) .. 475
+Opium    475
+Signs  and  Symptoms    476
+Treatment    476
+Postmortem  Findings    477
+Body  Packers    477
+Chasing  the  Dragon    477
+Chronic  Morphine  Poisoning  (Morphinism)    478
+Fentanyl    478
+48.  Inebriants—Alcohol..................................... 479
+Signs  and  Symptoms  (Acute  Poisoning)    481
+Treatment    482
+Postmortem  Findings    482
+Medico-legal  Aspects    482
+Chronic  Alcoholism  (Systemic  Effects)    482
+Delirium  Tremens    483
+Alcoholic Hallucinosis  484
+Wernicke's  Encephalopathy    484
+Korsakoff's  Psychosis    484
+Drunkenness    485
+Diagnosing  a  Case  of  Drunkenness    485
+Laboratory  Investigations    486
+Collection  of  Samples  in  Living    487
+Methyl  Alcohol  (Methanol)    488
+Isopropyl  Alcohol    490
+Ethylene  Glycol    490
+49.  Barbiturates.................................................. 493
+Signs  and  Symptoms    493
+Management    494
+Treatment    494
+Postmortem  Findings    494
+Barbiturate  Automatism  (Self-poisoning)    495
+50.  Deliriants—Dhatura/Datura......................... 496
+Dhatura/Datura    496
+Signs  and  Symptoms    496
+Treatment    497
+Postmortem  Findings    497
+51.  Deliriants—Cannabis................................... 499
+Signs  and  Symptoms    499
+Treatment    500
+Run-amok    500
+52.  Deliriants—Cocaine..................................... 501
+Signs  and  Symptoms    501
+Treatment    502
+Cocainism  (Cocainomania/Cocainophagia)    502
+Magnan's  Syndrome/Cocaine  Bugs    503
+53.  Spinal  and  Peripheral  Nerve  Poisons ...... 504
+Strychnos  Nux-vomica  (Kuchila)    504
+Curare    506
+Conium  Maculatum  (Hemlock)    506
+54.  Cardiac Poisons ........................................... 507
+Aconite  (Monk's  Hood,  Mitha  Zaher,  Bish)    507
+Nicotiana  Tabacum  (Tobacco)    508
+Digitalis  Purpurea  (Foxglove)    508
+Nerium  Odorum  (White  Oleander,  Kaner)    509
+Cerbera  Thevetia  (Yellow  Oleander,  Pila  Kaner)    510
+Quinine    510
+55.  Hydrocyanic Acid ......................................... 512
+Signs  and  Symptoms    512
+Treatment    513
+Postmortem  Findings    514
+Judicial  Execution    514
+56.  Asphyxiants.................................................. 516
+Carbon  Monoxide  (CO)    516
+Carbon  Dioxide  (CO
+2
+)    518
+Hydrogen  Sulphide  (H
+2
+S)    518
+57.  War  Gases  and  Biological  Weapons ......   521
+War  Gases    521
+Types  of  Chemical  Warfare  Agents  (CWAs)    521
+Biological  Weapons    522
+Types  of  Biological  Warfare  Agents    522
+58.  Agricultural Poisons.................................... 525
+Organophosphorus  Compounds  (OPCs)    525
+Signs  and  Symptoms    526
+Treatment    527
+Postmortem  Findings    529
+Endrin    530
+Naphthalene    531
+Paraquat    531
+Pyrethrins  and  Pyrethroids    532
+59.  Alphos (Aluminum Phosphide) .................. 534
+Signs  and  Symptoms    534
+Treatment    535
+Postmortem  Findings    536
+60.  Medicinal Poisons ....................................... 538
+Paracetamol  (Acetaminophen)    538
+Iron    539
+Antipsychotic  Drugs  (Tranquillizers)    539
+Antihistaminics    540
+Tricyclic  Antidepressants  (TCAs)    541
+Benzodiazepines    541
+Acetylsalicylic Acid (Aspirin)  542
+Chloral  Hydrate    543
+61.  Drug  Dependence ....................................... 545
+Patterns  of  Drug  Use  Disorders    545
+DSM-IV  Criteria  for  Diagnosis  of  Substance
+Dependence    546
+Psychoactive  Substances    546
+
+Contents
+xxv
+Complications  of  Drug  Abuse    549
+Postmortem  Findings    550
+62.  Kerosene  Oil  Poisoning .............................. 552
+Signs  and  Symptoms    552
+Treatment    553
+Postmortem  Findings    553
+63.  Food Poisoning............................................ 554
+Bacterial  Food  Poisoning    554
+Botulism  (Allantiasis)    555
+Superscripts  in  the  text  refer  to  answers  of  the  MCQs  given  at  the  end  of  the  chapters.
+Lathyrus  Sativus  ('Kesari  Dhal')    555
+Mushrooms    556
+Argemone  Mexicana  (Prickly  Poppy)    556
+Question  Bank—II............................................ 558
+Index................................................................. 561
+
+xxvi
+Review of Forensic Medicine and Toxicology
+History
+Forensic Medicine has Humble and Ancient Origins
+Law-medicine problems are found written in records in Egypt, Sumer, Babylon, India and China
+dating  4000-3000  BC.
+Manu  (3102  BC)  was  the  first  traditional  king  and  lawgiver  in  India.  Manusmriti  was  a  famous
+treatise where rules for marriage, punishment for adultery, incest and sexual offences were formulated.
+Code of Hammurabi specified by King of Babylon (about 2200 BC) is the oldest known medico-
+legal  code.
+Hippocrates  (460-377  BC),  Father  of  Western  medicine  discussed  the  lethality  of  wounds  and
+contributed  to  the  field  of  ethics.
+First descriptions of examination of injuries were found carved on pieces of bamboo dating back
+to  the  Qin  dynasty  in  China,  from  about  220  BC.
+First  medico-legal  autopsy  in  history  was  conducted  by  the  Roman  physician  Antistius  who
+examined  the  body  of  Julius  Caesar  after  his  assassination  in  44  BC.
+Agnivesa  Charaka  Samhita  was  the  first  treatise  on  Indian  medicine  which  dates  back  to  7th
+BC.
+Shusruta,  Father  of  Indian  Surgery  gave  the  Shusruta  Samhita  in  200-300  AD.
+During  the  6th  century,  Justinian  law  called  medico-legal  experts  to  testify  in  cases  of  rape,
+criminal  abortion  and  murder.
+Chinese  publication  in  the  13th  century  titled  'Hsi  Yuan  Lu'  or  'Instructions  to  the  Coroner'
+dealt  with  findings  in  cases  of  infanticide,  drowning,  hanging,  poisoning  and  assault.
+In  Germany,  during  the  16th  century,  the  code  of  Bamburg  brought  about  a  requirement  for
+medical  testimony  in  forensic  cases.  This  code  also  allowed  the  opening  of  bodies  to  examine
+the  depth  of  and  damage  caused  by  wounds.
+In  1602,  first  book  on  forensic  medicine  was  published  by  Italian  physician,  Fortunato  Fedele.
+The  first  recorded  medico-legal  autopsy  performed  in  India  was  by  Dr  Edward  Bulkley  in  1693
+at  Chennai  on  a  suspected  case  of  arsenic  poisoning.
+The  first  publication  on  forensic  medicine  in  UK  was  by  William  Hunter  in  the  18th  century.
+His  essays  were  on  injuries  found  on  murdered  bastard  children.
+In  the  18th  century,  Italian  anatomist  Giovanni  Morgagni  (1682-1771)  dissected  the  bodies  of
+the  dead  and  compared  the  alterations  in  their  organs  with  the  symptoms  of  the  diseases  that
+had  caused  death.  He  published  a  book  in  1761  on  640  postmortem  he  had  conducted.
+
+The three great pioneers of forensic medicine born in the 18th century were Johann Casper (1796-1864),
+Mathieu Orfila (1787-1853) and Marie Devergie (1798-1879). They devoted their life in the study and
+development  of  forensic  medicine  as  we  understand  it  today.
+Dr  CTO  Woodford  is  regarded  as  the  first  Professor  of  Medical  Jurisprudence  in  India.
+
+Food PoisoningPlate  1
+Fig.  6.2:  Incision  for  opening  thoracic  and  abdominal  cavities  (A)  Sternal  notch  (B)  Symphysis  pubis
+(C)  Right  mastoid  process  (D)  Left  mastoid  process
+Fig.  6.4:  Opening  of  the  heart  at  autopsy
+Incision  1—Through  right  atrium
+Incision  2—On  the  anterior  wall  of  right  ventricle  parallel  to  interventricular  septum
+Incision  3—Through  tricuspid  valve
+Incision  4—Through  left  atrium  (after  reversing  the  heart)
+Incision  5—Through  mitral  valve,  parallel  to  the  septum  (on  anterior  wall)
+Incision  6—Through  aortic  valve
+
+Plate  2
+Fig.  9.1:  Estimation  of  time  since  death
+Fig.  9.2:  Postmortem  staining  in  dependent  parts
+Fig.  9.5:  ‘Marbling’  of  the  skin  of  lower  limbs
+Fig.  12.14:  Close  shot  entry  wound  of  a  bullet
+Fig.  12.17:  Puppe’s  rule  (A)  First  (initial)  fracture  (B)  Subsequent  (later)  fracture
+
+Food PoisoningPlate  3
+Fig.  13.8:  Intracranial  hematomas
+Fig.  20.1:  Two  methods  of  opening  the  calvarium  in  fetus
+and neonate (A) Beneke’s technique (B) Reflection of cranial
+bones  along  the  suture  lines
+Fig.  20.3:  Cephalhematoma
+Fig.  20.4:  Caput  succedaneum
+
+Plate  4
+Fig.  24.1:  Normal  female  genitalia  (Vulva)
+Fig.  24.2:  Types  of  hymen
+Fig.  24.3:  The  level  of  fundus  uteri  at  different  weeks
+
+Food PoisoningPlate  5
+Fig.  25.3:  Local  examination  and  specimens  to  be  preserved  in  a  victim  of  rape
+Fig.  26.2:  Findings  in  a  habitual  passive  agent  of  sodomy
+Fig.  30.4:  Teichmann  test  (hemin  crystals)
+Fig.  30.5:  Takayama  test  (hemochromogen  crystals)
+
+Plate  6
+Fig.  31.1:  Florence  test  (choline  iodide  crystals)
+Fig.  31.2:  Barberio’s  test  (spermine  picrate  crystals)
+Fig.  31.3:  Spermatozoa  under  light  microscope
+Fig.  50.1:  Longitudinal  section  of  dhatura  and  capsicum
+seed
+
+1.Medical Jurisprudence and Ethics3
+2.Acts  Related  to  Medical  Practice25
+3.Legal Procedure34
+4.Identification  I45
+5.Identification  II70
+6.Medico-legal Autopsy83
+7.Autopsy Room Hazards104
+8.Thanatology107
+9.Signs  of  Death117
+10.Asphyxia138
+11.Injuries165
+12.Firearm Injuries183
+13.Regional Injuries204
+14.Thermal Injuries232
+15.Transportation Injuries249
+16.Explosion  Injuries  and  Fall  from  Height257
+17.Medico-legal  Aspects  of  Injuries263
+18.Decompression, Radiation and Altitude Sickness276
+Jurisprudence  and
+Forensic  Medicine
+19.Starvation  Deaths279
+20.Infanticide and Child Abuse282
+21.Anesthetic Deaths296
+22.Abortion299
+23.Impotence and  Sterility306
+24.Virginity, Pregnancy and Delivery313
+25.Natural  Sexual  Offences325
+26.Unnatural Sexual  Offences340
+27.Sexual Perversions/Deviations345
+28.Postmortem Artifacts349
+29.Forensic Psychiatry353
+30.Bloodstain Analysis371
+31.Seminal  Stains  and  Other  Biological
+Samples380
+32.DNA Fingerprinting386
+33.Torture and Custodial Deaths393
+34.Medico-legal  Aspects  of HIV397
+35.Newer Techniques and Recent Advances400
+SectionOne
+
+
+
+Definitions
+•Forensic medicine* (Legal medicine or State medicine):
+It is the application of principle and knowledge of medical
+sciences to legal purposes and legal proceedings so as
+to  aid in  the  administration of  justice.
+•Medical  jurisprudence  (Latin juris:  law, prudentia:
+knowledge or skill): It is the application of knowledge of
+law in relation to practice of medicine.
+It includes:
+i.Doctor-patient relationship
+ii.Doctor-doctor relationship
+iii.Doctor-State relationship.
+•Medical etiquette: These are the conventional laws and
+customs of courtesy which are followed between members
+of same profession.
+1
+ A doctor should behave with his
+colleagues,  as  he  would  like  to  have  them  behave
+with him, e.g. he should not charge another doctor or
+members of his family for professional service.
+•Medical ethics: It is concerned with moral principles
+for  the  members  of  the  medical  profession  in  their
+dealings with each other, their patients and the state.
+It  is  a  self-imposed  code  of  conduct  assumed
+voluntarily by medical professionals.
+Forensic  science  refers  to  a  group  of  scientific  disciplines
+which are concerned with the application of their particular
+scientific  area  of  expertise  to  law  enforcement,  criminal,
+civil, legal and judicial matters. Forensic scientists examine
+objects,  substances  (including  blood/drug  samples),
+chemicals  (paints/explosives/toxins),  tissue  traces  (hair/
+skin)  or  impressions  (fingerprints/tyremarks)  left  at  the
+scene  of  crime—a multidisciplinary  subject.
+Medical  Council  of  India  (MCI)
+The Medical Council of India is a statutory body charged
+with the responsibility of establishing and maintaining
+uniform standards of medical education and recognition
+of medical qualifications.
+Indian Medical Degrees Act, 1916: This Act was passed
+to  regulate the  grant of  titles  implying qualification  in
+Western Medical Science.
+The  Indian  Medical  Council  (IMC)  Act,  1956:  The
+Medical  Council  of  India  was  established  in  1934
+under the Indian Medical Council Act, 1933. In 1956,
+the old Act was repealed and a new one was enacted.
+This  was  further  modified  in  1964,  1993  and  2001.
+Recently,  the  IMC  (Amendment)  Act,  2010  was
+approved by the President  of India, superseding the
+previous Council. The Central Government constituted
+the board of governors (comprising of not more than
+seven members) with one of them as chairperson till
+the  new  council  is  elected  (time  frame  given  is  of  2
+years).
+Constitution of IMC
+i.One  member  from  each  state  other  than  a  Union
+Territory, nominated by the Central Government in
+consultation with the State government concerned.
+ii.One  member  from  each  university,  to  be  elected
+from amongst the members of the medical faculty of
+the university.
+iii.One  member  from  each  state  in  which  a  State
+Medical Register is maintained, to be elected from
+persons enrolled  on such  a register.
+iv.Seven members to be elected by persons enrolled in
+any of the State Medical Registers.
+v.Eight  members  are  nominated  by  the  Central
+Government.
+The  President  and  Vice-President  are  elected  from
+amongst these members. They hold office for a term of
+5 years.
+Schedules
+•First Schedule of the IMC Act contains recognized
+medical  qualifications  granted  by  universities  in
+India.
+2
+  Any  medical  Institution  which  grants  a
+qualification  not  included  in  the  First  Schedule
+may  apply  to  the  Central  Government  and  after
+consulting the Council may amend the First Schedule,
+and the same is entered in the last column of the First
+Schedule.
+•Second  Schedule  contains  recognized  medical
+qualifications granted outside India.
+3 
+The Council may
+*Latin forensis:  of  or  before  the  forum.  In  Rome,  ‘forum’  was  the  meeting  place,  where  civic  and  legal  matters  used  to  be
+discussed  by  those  with  public  responsibility
+Medical  Jurisprudence  and  Ethics
+1
+
+Fundamentals of Forensic Medicine and Toxicology
+4
+enter  into  negotiations  with  the  Authority  in  any
+country outside India for the scheme of reciprocity for
+the  recognition  of  medical  qualifications  and  the
+Central Government may amend the Second Schedule,
+and  the  same  is  entered  in  the  last  column  of  the
+Second Schedule.
+•Part  I  of  the  3rd  Schedule  contains  qualification
+granted  by  medical  institutions  not  included  in  1st
+Schedule.
+•Part  II  of  the  3rd  Schedule  contains  qualification
+granted  outside  India,  but  not  included  in  2nd
+schedule.
+The Council  should:
+•Constitute an Executive Committee from amongst its
+members.
+•Appoint  a  Registrar  who  will  act  as  Secretary  and
+who  may  also act  as  Treasurer.
+Functions  of  MCI
+i.Maintenance of Indian Medical Register
+•It  contains  the  names,  addresses  and  qualifi-
+cations  of  the  medical  practitioners  who  are
+registered with any State Medical Council.
+•Removal  of  the  name  from  the  register  of  the
+concerned State Medical Council will lead to its
+removal from Indian Medical Register.
+ii.Regulation  of  standard  of  undergraduate  and
+postgraduate medical education
+•The  Council maintains  the  standards  of  under-
+graduate medical education. The Council prescribes
+courses  and  criteria  which  a  medical  institute
+should fulfill  for a particular course  of study.
+•The  Council  sends  inspectors  to  see  that  the
+college is adequately spaced, staffed and equipped
+as per MCI stipulations. The inspector may also
+visit  the  institution  during  the  examinations  to
+assess  the standard  of  education.
+•On the basis of the reports of the inspectors, the
+MCI  recommends  the  recognition  or  non-
+recognition  of  the  medical  qualification  to  the
+Central Government.
+•Such  an  inspection  is  held  for  every  medical
+qualification  when  it  is  introduced  and  every
+5 years thereafter.
+•The  Council  has  the  authority  to prescribe
+standards of postgraduate medical education for the
+guidance of the universities.
+iii.Permission  for  establishment  of  new  medical
+college, new course of study and increase in seats:
+It requires the permission of the Central Government
+obtained after the recommendations of the Council
+which may either approve or disapprove the scheme.
+iv.Recognition of medical qualification granted by
+universities in India: Any university which grants
+a  medical  qualification  not  included  in  the  1st
+Schedule may apply to the Central Government, to
+have such qualification recognized, and the Central
+Government,  after  consulting  the  Council,  may
+amend the 1st Schedule.
+v.De-recognition of medical qualification: It can make
+representation  to  the  Central  Government  to
+withdraw recognition of a medical qualification of
+any college, if on receipt of report from inspectors
+it  feels  that  the  standards  of  resources,  training/
+teaching are not satisfactory.
+vi.Recognition of foreign medical qualifications under
+the scheme of reciprocity: The Council may enter
+into negotiations with the authority in any country
+outside India under a scheme of reciprocity for the
+recognition of medical qualifications.
+vii.Appellate  powers:  It  advises  the  Central  Health
+Ministry  when  an  appeal  is  made  by  a  medical
+practitioner against the decision of the State Medical
+Council on disciplinary matters.
+viii.Warning notices: It may issue  warning notices in
+relation  to  certain  unethical  practices  which  are
+regarded  as  'infamous  conduct'  in  a  professional
+respect.
+ix.Code of ethics: The Council  prescribes standards
+of  professional  conduct,  etiquette  and  a  code  of
+ethics for medical practitioners.
+x.Certificates: It is empowered to issue certificates of
+good conduct and character to medical students/
+doctors going abroad for higher studies/service.
+xi.CME  programmes:  It  sponsors  and  organizes
+continuing medical education (CME) programmes
+for medical practitioners.
+xii.Faculty  development  programmes: The  Council
+made  it  mandatory  for  all  medical  colleges  to
+establish medical education departments in order
+to enable faculty members to avail modern education
+technology for teaching and to improve the quality
+of medical teaching by training the teachers.
+State  Medical  Council  (SMC)
+Composition of the State Medical Council
+•Medical teachers from different universities of the state
+elected by the teachers of different medical institutions.
+•Members elected by registered medical practitioners
+of the state.
+•Some members are nominated by the State Government.
+They  elect  a  President  and  a  Vice-President  from
+amongst themselves.
+
+Medical Jurisprudence and Ethics
+5
+Functions of SMC
+i.Maintenance of Medical Register
+•Maintains  a  register  of  medical  practitioners
+within  its  jurisdiction.
+•On payment of prescribed fees, the name, address
+and qualifications are entered in the register.
+•A provisional registration is granted to a student
+who has passed the qualifying examination, but
+has  to  undergo  a  certain  period  of  training
+(internship for 1 year) in an approved institution
+and permanent registration is granted after that
+training period.
+ii.Disciplinary control: The Council is entrusted with
+disciplinary  control  over  the  registered  medical
+practitioner (Flow chart 1.1).
+•The  SMC  takes  cognizance  of  any  misconduct
+(professional) in case:
+–The medical practitioner has been convicted
+by court for any criminal offence
+–A complaint has been lodged against him by
+some person or body.
+•Upon receipt of any complaint, the SMC would
+hold  an  enquiry  and  give  opportunity  to  the
+registered medical practitioner to be heard.
+•If the doctor is found to be guilty of committing
+professional misconduct, the Council may punish
+as deemed necessary or may direct the removal
+of the name of the delinquent practitioner from
+the register, altogether or for a specified period.
+4
+•Decision  on  complaint  against  delinquent
+physician is taken within a time limit of 6 months.
+•An inquiry against a doctor can be initiated only
+by  that  SMC  with  which  he/she  is  registered.
+The MCI has no authority to initiate an inquiry
+against a doctor. The role of the MCI is only as
+an  appellate  authority  to  the  Central  Health
+Ministry  to  decide  on  an  appeal  against  the
+decision of the SMC on disciplinary matters.
+5
+Duties  of  a  Doctor (Flow  chart  1.2)
+Under  the  Indian  Medical  Council  Act,  1956,  the
+Medical  Council  of  India,  with  the  approval  of  the
+Central  Government,  made  the  following  regulations
+which  ar e  c alled   the In dian  Medical  Counc il
+(P rofessional Con duc t,   Etiqu ette   and   Ethic s)
+Regulations, 2002 (amended in 2009).
+Code of Medical Ethics: At the time of registration, all
+the  doctors  are  self-warned  about  certain  unethical
+practices (infamous conduct) and the disciplinary action
+by the SMC (sometimes it is also called as warning notice).
+The applicant should certify that he/she had read and
+agreed  to  abide  by  the  declaration  and  submit  a
+declaration duly signed.
+•Hippocratic  Oath: The  Hippocratic  Oath  is  traditionally
+taken  by  physicians,  in  which  certain  ethical  guidelines
+are laid out. Several parts of the Oath have been removed
+or re-worded over the years in various countries, schools
+and  societies.
+•Declaration  of  Geneva: The  Declaration  of  Geneva  was
+intended  as  a  revision  of  the  Hippocrates  Oath  to  a
+formulation  of  that  oaths'  moral  truth  that  could  be
+comprehended  and  acknowledged  modernly.  It  was
+adopted by  the General  Assembly of  the World  Medical
+Association  (WMA)  at  Geneva  in  1948  and  amended  in
+1968,  1984,  1994,  2005  and  2006.
+•Declaration  of  Tokyo: This  was  adopted  in  1975
+(amended  in  2005 and  2006)  during  the assembly  of  the
+WMA.  It  refers  to  the  guidelines  for  doctors  concerning
+torture,  degradation  or  cruel  treatment  of  prisoners.
+6
+•Declaration of Helsinki: The WMA originally developed
+this declaration in 1964 and underwent major revision in
+1975. It refers to the ethical principles for medical research
+inv olvi ng  human  s ubje cts,  incl uding   rese arch   on
+identifiable  human  material  and  data.
+7
+•Declaration  of Oslo: It  was  a  statement by  the  WMA  in
+1970  on  therapeutic  abortion  and  amended  in  1983  and
+2006.
+8
+Flow chart 1.1: Disciplinary functions of State Medical Council
+Flow  chart  1.2:  Duties  of  a  medical  practitioner
+
+Fundamentals of Forensic Medicine and Toxicology
+6
+Duties  of  a  Physician  in  General
+i.Character of physician: A physician should uphold
+the dignity and honor of his profession and render
+service to  humanity; reward or  financial gain  is a
+subordinate consideration.
+ii .Maintaining good medical practice
+•The  physician  should  try  to  improve  medical
+knowledge  and  skills,  and  should  practice
+methods  having  scientific  basis.  He  should
+participate  in  professional  meetings,  i.e.  CME
+programmes for at least 30 hours (h) every 5 years.
+•Membership in medical society: He should affiliate
+with   ass oc iat ions    and    s oc ieties    for    t he
+advancement of his profession.
+iii.Maintenance of medical records
+•Phys ician   s hould    maintain   t he   med ic al
+records  of  his  indoor  patients  for  a  period  of 3
+years  from  the  date  of  commencement  of  the
+treatment.
+•On  request  for  medical  records,  either  by  the
+patients or legal authorities, the same should be
+issued within the period of 72 h. This applies to
+a doctor in his private capacity, in case of indoor
+patients  whom  he/she  might  have  treated/
+operated in hospital/nursing home.
+•He  should  maintain  a  register  of  medical
+certificates issued. He should record the signature
+and/or  thumb  mark,  address  and  at  least  one
+identification  mark  of  the  patient  and  keep  a
+copy of the certificate.
+iv.Display of registration numbers
+•Physician should display the registration number
+accorded to him by the SMC in his clinic and in
+all his prescriptions, certificates, money receipts
+given  to his  patients.
+•Physicians should display as suffix to their names
+only  recognized  medical  degrees  or  such
+certificates/diplomas and memberships/honors
+which confer professional knowledge.
+v.Use of generic names of drugs: Physician should
+prescribe  drugs  with  generic  names  and  ensure
+that  there  is  a  rational  prescription  and  use  of
+drugs.
+vi.Highest  quality  assurance  in  patient  care: He
+should  not   employ  in  connect ion  with  his
+professional  practice  any  attendant  who  is  not
+registered or permit such persons to attend, treat or
+perform  operations  upon  patients  wherever
+professional discretion or skill is required.
+vii.Exposure of unethical conduct: Physician should
+expose,  without  fear  or  favor,  incompetent  or
+corrupt, dishonest or unethical conduct on the part
+of members of the profession.
+viii.Payment of professional services
+•Physician  should  clearly  display  his  fees  in  his
+chamber  and/or  hospitals  he  is  visiting.
+•He  should  announce  his  fees  before  rendering
+service and not after the operation or treatment is
+underway.
+ix.Evasion  of  legal  restrictions:  Physician  should
+observe  the  laws  of  the  country  in  regulating  the
+practice of medicine and should not assist others to
+evade  such  laws.
+Duties of Physician towards State
+i.Poisoning cases
+•He  should  assist  the  police  in  determining
+whether the poisoning is accidental, suicidal or
+homicidal.
+•In case of death, death certificate should mention
+about  the  poisoning  with  recommendation  for
+postmortem examination.
+ii.Notification: Doctor is bound to give information of
+communicable diseases, births, deaths and outbreak
+of an epidemic to public health authorities. Failing
+which  he  is  not  only  liable  for  criminal  penalties,
+but  also  negligence  suits  brought  by  affected
+persons.
+iii.Geneva Convention
+•In 1949, in Geneva, four conventions were agreed
+upon. Each convention lays down the persons it
+protects.
+•The  wounded  or  sick  of  the  armed  forces  (1st
+convention)  ship-wrecked  (2nd  convention),
+prisoners  of  war  (3rd  convention)  or  civilians  of
+enemy nationality (4th convention) are to be treated
+by the physician without any adverse distinction
+based  on  sex,  race  and  nationality.
+iv.Responding to emergency military service as and
+when required.
+Duties of a Physician towards Patients
+i.Exercise reasonable degree of skill and knowledge
+•It  begins  the  moment  the  physician-patient
+relations hip  is   established   (i.e.   when  the
+physician agrees to treat the patient).
+•He owes this duty even when the patient is treated
+free of charge.
+•It  neither  guarantees  cure  nor  an  assured
+improvement.
+
+Medical Jurisprudence and Ethics
+7
+•A practitioner  (e.g. MBBS) is not  liable because
+some other doctor of greater skill and knowledge
+(e.g.  MD/MS)  would  have  prescribed  a  better
+treatment  or  operated  better  in  the  same
+circumstances.
+ii.Attendance and examination
+•When  a  doctor agrees  to  attend  a patient,  he  is
+under an obligation to attend to the case, as long
+it requires attention.
+•He can withdraw after giving reasonable notice
+or when he is asked by the patient to withdraw.
+•If the doctor is called by police to attend a case of
+road side accident, he may give first aid and advice,
+but no doctor-patient relationship is established.
+iii.Furnish proper and suitable medicines
+•He should give a legible prescription.
+•Doctor is held responsible for any temporary or
+permanent  damage  in  health,  caused  to  the
+patient due to wrong prescription.
+iv.Instructions: Doctor should give full instructions to
+his  patients  or  their  attendants  regarding  use  of
+medicines (quantities and timings) and diet.
+v.Prognosis: The patient or his relatives should have
+such  knowledge  of  the  patient's  condition  as  will
+serve the best interests of the patient and the family.
+vi.Control and warn
+•Doctor  should warn  patients  of the  side-effects
+involved in the use of prescribed drug, otherwise
+it might amount to negligence.
+•If the doctor fails to inform the known dangerous
+effects  of  a  drug/device,  he  becomes  liable  not
+only for the harm suffered by the patient but also
+for injuries his patient may cause to third parties.
+vii.Third parties: If a patient suffers from an infectious
+disease, the doctor should warn not only the patient,
+but also third parties who are close to the patient.
+viii.Children and disabled persons being incapable of
+taking care of themselves, the doctor should arrange
+for their proper care, e.g. supervised application of
+hot water bottles.
+xi.Consent: A mentally sound adult ( 18 years) must
+be told of all the relevant facts in non-medical terms
+and  in  a  language  the  patient  understands  and
+then obtain consent.
+x.Operations
+•Doctor should  explain the  nature and  extent of
+operation and take consent of patient.
+•He  should  take  proper  care  to  avoid  mistakes,
+such  as  operating  on  the  wrong  patient  or  on
+wrong  limb  or  leave  any  instrument  or  swab
+inside a body cavity.
+•He  should  not  delegate  his  duty  to  operate  a
+patient to another doctor.
+•He should not experiment without valid reason
+or valid consent from the patient.
+•He  should  avail  the  assistance  of  qualified  and
+experienced anesthetists.
+•Death on operation table should be followed by
+postmortem examination.
+xi.Investigations
+•All  cases  of  accident,  unless  they  are  minor,
+should be X-rayed.
+•For proper diagnosis and to know the progress,
+the  doctor  should  advise  investigations,  like
+biopsy, X-rays, etc.
+•Wrong interpretation of X-ray is liable to be held
+as negligent.
+xii.Emergency  cases
+•He has moral, ethical and humanitarian duty to
+help  the  patient  in  saving  his  life.
+•In medico-legal injury cases, a doctor is obliged
+to give medical aid and to save life of the patient.
+xiii.Professional secrecy/medical confidentiality
+Definition: The doctor is obliged to maintain the
+secrets  that  he  comes  to  know  concerning  the
+patient in the course of a professional relationship
+except when he is  required by  the law to divulge
+the secrets or when the patient has consented for
+its disclosure.
+•It is a fundamental tenet that whatever a doctor
+sees  or  hears  in  the  life  of  his  patient  must  be
+treated as totally confidential. Disclosure would
+be failure of trust and confidence.
+•The  patient  can  sue  the  doctor  for  damages  or
+face  disciplinary  action  by  the  SMC,  if  the
+disclosure is voluntary and has resulted in harm
+to the patient and is not in the interest of public.
+Following  principles  should  be  followed:
+i.Physician  should  not  answer  any  query  by  third
+parties, even when enquired by close relatives, either
+with  regard  to  the  nature  of  illness  or  any
+subsequent  effect  of  such  illness  on  the  patient,
+without his/her consent.
+ii.If the patient is major ( 18 years), physician should
+not disclose any facts about the illness without his
+consent  to  parents  or  relatives  even  though  they
+may be paying the doctor's fees. In case of minor or
+insane  person,  guardians  or  parents  should  be
+informed of the nature of illness.
+iii.A  doctor  should  not  disclose  the  illness  of  his
+patient without his consent, even when requested
+by  a  public  or  statutory  body, except  in  case  of
+notifiable diseases. If the patient is minor or insane,
+consent  of the  guardian  should be  taken.
+
+Fundamentals of Forensic Medicine and Toxicology
+8
+iv.Even in case of husband and wife, the facts relating
+to the nature of illness of one must not be disclosed
+to the other, without the consent of the concerned
+person. Particular  caution  is  required  over  the
+disclosure  of  sexual  matters,  such  as  pregnancy,
+abortion  or  venereal  disease,  as  disclosure  might
+cause conflict between them.
+v.In divorce and nullity cases, no information should
+be given without the consent of the concerned person.
+vi.When a domestic servant is examined at the request
+of  the  master,  the  physician  should  not  disclose
+any facts about the illness to the master without the
+consent of servant, even though the master is paying
+the  fees.  Similarly,  the  medical  officer  of  firm  or
+factory  should  not  disclose  without  the  patient's
+consent.
+vii.Medical  officers  in  government  service  are  also
+bound by code of professional secrecy, even when
+the patient is treated free.
+viii.A person in police custody as an undertrial prisoner
+has  the  right  not  to  permit  the  doctor  who  has
+examined him, to disclose the nature of his illness to
+any person.  If  convicted,  he has  no  such right  and
+physician can disclose the findings to the authorities.
+ix.Any  information  regarding  a  dead  person  may
+be  given  only  after  obtaining  the  consent  from  a
+relative.
+x.In examination of a dead body, certain facts may be
+found,  the  disclosure  of  which  may  affect  the
+reputation of the deceased or cause mental torture
+to his  relatives, and as  such, the  autopsy surgeon
+should maintain secrecy.
+xi.The  medical  examination  for life  insurance  policy
+is  a  voluntary  act  by  the  examinee  and  consent  to
+the disclosure of findings may be taken as implied.
+Privileged  Communication
+Definition: It is a statement, made bonafide upon any
+subject matter  by a doctor  to the  concerned authority,
+due to his duty to protect the interests of the community
+or of the state.
+•It  is  an  exchange  of  information  between  two
+individuals  in  a  confidential  relationship  and an
+exception to professional secrecy.
+•To be privileged, it must be made to the person who
+has  a  duty  towards  it.  If  made  to  more  than  one
+person or to a person who has not got a direct interest
+in  it, the  plea  of privilege  fails.
+•Physician should first persuade the patient to obtain
+his consent before notifying the proper authority.
+Examples
+i.Civic benefit: If a patient poses a potential threat of
+‘grave harm’ to the safety or health of patient and
+the public, the doctor must decide whether to inform
+the authority about the condition.
+•For example, a engine or bus driver, pilot or ship
+navigator  may  be  suffering  from  epilepsy,
+hypertension, alcoholism,  drug addiction,  poor
+visual acuity or color blindness; or a teacher with
+tuberculosis or a person with infectious diseases
+(e.g. enteric  infection) working  as a  cook. In  all
+these cases, the proper course is for the doctor to
+explain the risks to the patient and to persuade
+him to allow the doctor to report the problem to
+his  employers.  If  the  patient  refuses,  then  it  is
+always  wise  to  seek  the  advice  of  senior
+colleagues before making any disclosure.
+•A syphilitic taking bath in public pool or a patient
+with sexually transmitted disease is about to get
+married  is  a  privileged  communication  but  an
+impotent person getting married is not.
+ii.Notifiable clauses: Doctor has a statutory duty to
+notify births, deaths, still births, infectious diseases,
+therapeutic  abortions,  drug  addictions,  epidemic
+and  food  poisoning to  public  health  authorities.
+iii.Suspected crime: If the physician learns of a crime,
+such as assault, terrorist activitiy, traffic offence or
+homicidal  poisoning  by  treating  the  victim  or
+assailant,  he  is  bound  to  report  it  to  the  nearest
+Magistrate or police officer.
+•But sometimes, the issue of confidentiality clashes
+with the need to protect some individual or the
+public from possible further danger (e.g. a below-
+age of consent girl came to a doctor with STD).
+The same issue may arise where a doctor suspects
+a  child  being  abused,  but  here  the  overriding
+consideration is  the safety  of the  child.
+•At times, assault may occur within a family, e.g.
+between  spouses  or  close  relatives,  the  victim
+may  not  wish  to  bring  criminal  charges  and  so
+the  doctor  must  not  assume  that  consent  for
+disclosure has  been given.
+•The doctor knowing or having reason to believe
+that an offence has been committed by a patient
+when he is treating, intentionally omits to inform
+the police, shall be punished with imprisonment
+upto 6 months with/without fine (Sec. 202 IPC).
+
+Medical Jurisprudence and Ethics
+9
+iv.Patient's own interest: Doctor may disclose patient's
+condition to his relatives so that he may be properly
+treated, e.g. to warn parents/guardians of patient's
+melancholia  or suicidal  tendencies.
+v.Self-interest: In case of civil and criminal suits by
+the  patient  against  the  physician,  evidence  about
+patient's condition may be given.
+vi.Negligence  suits:  When  doctor  is  employed  by
+opposite party to examine a patient who has filed
+a suit for negligence, the information thus acquired
+is  not  a  professional  secret  (no  physician-patient
+relationship)  and  the  doctor  may  testify  to  such
+information.
+vii.Court  of  law:  Doctor  cannot  claim  professional
+secrecy  concerning  the  facts  about  illness  of  his
+patient  in  court  of  law.
+9,10
+  He  has  to  answer  the
+questions  about  patient's  confidential  matters  to
+avoid risk penalties for contempt of court.
+A doctor can disclose and discuss the medical facts
+of a case with other doctors and paramedical staff, such
+as  nurses,  radiologist  and  physiotherapist  to  provide
+better service to the patient.
+Duties of a Physician in Consultation
+i.Consultation  for  patient's benefit is  of  foremost
+importance. Unnecessary consultations  should be
+avoided.
+ii.Statement to patient after consultation should take
+place  in  the  presence  of  the  consulting  physician,
+except if otherwise agreed. Differences of opinion
+should not be divulged unnecessarily.
+iii.Treatment  after  consultation:  The  attending
+physician  should  make  subsequent  variations  in
+the  treatment,  if  any  unexpected  change  occurs.
+The attending physician may prescribe medicine at
+any  time  for  the  patient,  whereas  the  consultant
+may prescribe only  in case of emergency  or as an
+expert when called for.
+iv.Patients referred to specialists: When a patient is
+referred to a specialist by the attending physician,
+a case summary of the  patient should be given to
+the specialist, who should communicate his opinion
+in  writing  to  the  attending  physician.
+Consultation  is  advised  with  a  specialist  in  the  following
+conditions:
+i.In case of emergency.
+ii.If the patient requests consultation.
+iii.If quality of care or management can be considerably
+enhanced.
+iv.In  cases where  diagnosis remains  obscure.
+v.In  case  of  homicidal  poisoning.
+vi.In  connection  with  organ  transplantation.
+vii.When treatment or operation involves risk of life.
+viii.When  operation  affecting  vitality,  intellectual  or
+generative functions is to be performed.
+ix.When  an  oper ation  inv olves  mut ilat ion  or
+destruction of  an unborn  child.
+x.When an operation is to be performed on a patient
+who  has  received  injuries  in  a  criminal  assault.
+xi.To  take  decision  about  termination  of  pregnancy
+case, after 12 weeks and upto 20 weeks of pregnancy.
+xii.While  dealing  with  a  criminal  abortion  or  an
+attempted criminal abortion case.
+•A   r eferr ing  phys ician  is   relieved   of  fur t her
+responsibility  when  he  completely  transfers  the
+patient  to  another  physician.
+•The referring physician may be held liable under the
+doctrine of negligent choice, if it can be proved that the
+consultant  was  incompetent  or  had  a  reputation  as
+an  errant  physician.
+Responsibility of Physicians towards Each Other
+i.Conduct in consultation: No insincerity, rivalry or
+envy should be indulged in. All due respect should
+be observed towards the physician in-charge of the
+case and no  statement or remark be  made, which
+would  impair  the  confidence  the  patient  has
+reposed in him.
+ii.Consultant  not  to  take  charge  of  the  case:
+Consultant should normally not take charge of the
+case, especially on the solicitation of the patient or
+friends.
+iii.Appointment  of  substitute:  A  physician  should
+accept to attend another physician's patients during
+his temporary absence from his practice, only when
+he  has  the  capacity  to  discharge  the  additional
+responsibility  along  with his  other  duties.
+Medical  Malpractice
+The term ‘medical malpractice’ covers all failures in the
+conduct  of  doctors,  where  it  impinges  upon  their
+professional  skills,  ability  and  relationships.
+It divided into two broad types: (Diff. 1.1)
+i.Professional  misconduct—where  the  personal,
+professional  behavior  falls  below  that  which  is
+expected of a doctor.
+ii.Medical negligence—where the standard of medical
+care given to a patient is considered to be inadequate.
+
+Fundamentals of Forensic Medicine and Toxicology
+10
+Unethical  Acts
+A  medical  practitioner  should  not  commit  any  of  the
+following  acts  which  may  be  construed  as  unethical:
+i.Advertising: He should not:
+a.   Solicit  patients  directly  or  indirectly,  by  a
+physician  or  a  group  of  physicians  or  by
+institutions.
+b.   Make use his name for any advertising through
+any  mode,  so  as  to  invite  attention  to  his
+professional position.
+c.   Give  any  recommendation,  endorsement  or
+statement with respect of any drug, surgical or
+therapeutic appliance for use in connection with
+his name, signature or photograph in any form
+of  advertising  (no  association  with  manu-
+facturing  firms)  nor  shall  he  boast  of  cases,
+operations or cures or permit the publication of
+report thereof through any mode.
+d.Print  self-photograph  or  any  such  material  of
+publicity in the letterhead or on sign board of the
+consulting room.
+A medical practitioner is however permitted to
+make  a  formal  announcement  in  press  regarding
+the following:
+•On starting or  resumption or change of  type of
+practice.
+•On  changing  address.
+•On temporary absence from duty.
+•On succeeding to another practice.
+•Public declaration of charges.
+ii.Patent  and  copyrights:  He  may  patent  surgical
+instruments, appliances, procedures and medicine.
+However,  it  shall  be  unethical,  if  the  benefits  of
+such  patents  are  not  made  available  in  situations
+where the interest of large population is involved.
+iii.He should not run an open shop for dispensing of
+drugs  and   app liances  pr esc ribed  by  other
+physicians.
+iv.Rebates and commission (dichotomy/fee splitting):
+He should not give or receive any gift or commission
+in  consideration  of  referring,  recommending  or
+procuring of patient for medical, surgical or other
+treatment  or  for  getting  specimen  or  material  for
+diagnostic purposes.
+11
+v.Secret  remedies:  He  should  not  prescribe  or
+dispense secret  remedial agents of which  he does
+not know the composition. All the drugs prescribed
+by  a physician  should  always  carry a  proprietary
+formula and clear name.
+vi.Human rights: He should not aid or abet torture or
+be  a  party  to  either  infliction  of  psychological  or
+physical trauma.
+vii.Euthanasia: He  should not  practice euthanasia.
+viii.Pharmaceutical and allied health sector industry:
+A medical practitioner should not receive any gift,
+cash  or  monetary  grants,  travel  facility  or  accept
+any hospitality like hotel accommodation from any
+pharmaceutical  industry  for  vacation  or  for
+attending conferences, seminars, workshops or CME
+programme as a delegate.
+Professional  Misconduct (Infamous  Conduct)
+Definition: Any conduct of the doctor which might
+reasonably be regarded as disgraceful or dishonorable
+as  judged  by  professional  men  of  good  repute  and
+competence. It involves abuse of professional position.
+The  following  acts  of  commission  or  omission  on
+the  part  of  a  physician  constitutes  professional  mis-
+conduct:
+i.Any unethical practice as outlined above.
+ii.If he does not maintain the medical records of his
+indoor patients for a period of 3 years and refuses
+to provide the same within 72 h when the patient
+requests for it.
+Differentiation  1.1:  Professional  negligence  and  infamous  conduct
+S.No.FeatureProfessional  negligenceInfamous  conduct
+1.OffenceAbsence  of  care  and  skill  orViolation  of  code  of  Medical  Ethics
+willful negligence
+2.Duty  of  careShould  be  presentNeed  not  be  present
+3.Damage  to  personShould  be  presentNeed  not  be  present
+4.Trial  byCourts—civil  or  criminalState  Medical  Council
+5.PunishmentFine,  imprisonment  or  bothErasure  of  name  or  warning
+6.AppealHigher  courtMCI  and  Central  Government
+
+Medical Jurisprudence and Ethics
+11
+iii.If  he does  not  display  the  registration  number
+accorded  to  him  by  the  SMC  in  his  clinic,
+prescriptions and certificates issued by him.
+iv.Physician posted in rural area is found absent on
+more than two occasions during inspection by the
+Head  of  the  District  Health  Authority  or  the
+Chairman,  Zila  Parishad.
+v.Physician posted in a medical college as teaching
+faculty or otherwise is found absent on more than
+two  occasions;  the  same  shall  be  construed  as
+misconduct, if it is certified by the Principal/Medical
+Superintendent.
+Further, he should not:
+i.Commit adultery or misbehave with a patient.
+ii.Be drunk  and  disorderly so  as  to  interfere  with
+proper practice of medicine.
+iii.Be convicted by court of law for offences involving
+moral turpitude/criminal acts.
+iv.Do sex  determination  tests with  the  intent  to
+terminate the life of a female fetus.
+v.Issue false, misleading or improper certificates for
+subsequent use in the courts or for administrative
+purposes.
+vi.Violate  the  provisions  of  Drugs  and  Cosmetics
+Act. He should not:
+•Sell  Schedule  'H'  and  'L'  drugs  and  poisons  to
+the public, except  to his patient.
+•Prescribe steroids/psychotropic drugs when there
+is  no  medical  indication.
+vii.Supply or sell addiction forming drugs to a patient
+other than medical grounds.
+viii.Give cover, i.e. assist someone who has no medical
+qualification to attend, treat or perform an operation,
+in  cases requiring  professional  discretion or  skill.
+ix.Perform an illegal abortion/operation for which there
+is no medical, surgical or psychological indication.
+x.Issue certificates of efficiency in modern medicine
+to unqualified or non-medical person.
+xi.Disclose professional secrets.
+xii.Refuse on religious grounds for sterilization, birth
+control,  circumcision  and  medical  termination  of
+pregnancy  when  it  is  indicated.
+xiii.Publish photographs/case reports of his patients
+without  their  consent  in  any  medical  or  other
+journal in a manner by which their identity could
+be made out.
+xiv.Use touts or agents to entice patients.
+xv.Claim  to  be  specialist when  he  has  no  special
+qualification  in  that  branch.
+xvi.Undertake  in-vitro  fertilization  or  artificial
+insemination without the informed consent of the
+female patient and her spouse as well as the donor.
+xvii.Do clinical drug trials or other research involving
+patients or volunteers not abiding by the guidelines
+of ICMR.
+xviii.Regarding advertisement,
+6
+ he should not:
+a.   Contribute  to  the  lay  press  articles  and  give
+interviews  regarding  diseases  and  treatments
+which may have the effect of advertising himself.
+He  can  write  to  the  lay  press  under  his  own
+name  on  matters  of  public  health,  hygiene  or
+deliver public lectures, give talks on the radio/
+TV/internet for the same purpose.
+b.   Use an unusually large signboard and write on it
+anything other than his name, qualifications, title,
+name of his speciality and registration number.
+c.   Affix a signboard on a chemist's shop or in places
+where he does not reside or work.
+T he   inst ances    of   offences    and    pr ofes s ional
+misconduct  which  are  given  above do  not  constitute  a
+complete  list  of  the  infamous  acts which  calls  for
+disciplinary action. Circumstances may arise from time
+to time in relation to which there may occur questions
+of professional  misconduct which  do not  come within
+any of these categories.
+Important  offences  can  be  described  as  6  A's
+12
+1.Association  with  unqualified  persons4.Adultery
+2.Advertising5.Addiction
+3.Abortion  (criminal)6.Alcohol
+Erasure  of  Name
+The name of the doctor is removed from the SMC register:
+•After the death of registered medical practitioner.
+•When entries of the medical practitioner are erroneous
+or fraudulent.
+•In  case  of  professional  misconduct  which  is  known
+as penal  erasure.  When  the  name  is  permanently
+removed, it is termed as professional death sentence.
+13
+•When  the  registered  medical  practitioner  is  not
+traceable at the address recorded with the council.
+Rights  and  Privileges  of  Registered  Medical
+Practitioners
+i.Right  to  choose  his  patient—he  may  refuse  any
+patient  without  reason,  but  he  should  not  refuse
+emergency treatment required by the patient.
+ii.Right to use title and description of the qualification
+to his  name.
+iii.Right to practice medicine.
+iv.Right to  dispense medicine  to his  patient.
+v.Right  to  possess  and  supply  dangerous  drugs  to
+his  patients.
+
+Fundamentals of Forensic Medicine and Toxicology
+12
+vi.Right  to  be  exempted  from  acting  as  a  juror  in
+course of  holding an  inquest.
+vii.Right to give evidence in court of law, as an expert
+witness.
+viii.Right to issue medical certificates and medico-legal
+reports.
+ix.Right  to  recovery  of  fees—if  the  patient  does  not
+pay the justified  fees, help of court  can be taken.
+x.Right for appointment in public and local hospitals.
+Red  Cross  Emblem
+Red  Cross  is  an  emblem  which  is  used  only  by  those
+belonging to the Red Cross Movement and Army Medical
+Services involved in humanitarian work, mainly at times
+of armed conflicts and natural disasters and it is not an
+emblem of medical professionals.
+As specified by the Geneva Conventions, the emblem
+can  be used  only  by the  following:
+•Facilities for the care of injured and sick armed forces
+members
+•Armed forces medical personnel and equipment
+•Military  chaplains
+•International Red Cross Organizations
+The  use  of  the  emblem  by  Government  medical
+institutions,  like  hospitals,  clinics  and  blood  banks,
+doctors, private nursing homes and also on ambulance
+vehicles  is equivalent  to  abuse  and is  punishable  with
+a fine of ` 500 and forfeiture of the goods or vehicles on
+which  the emblem  has been  used.
+14
+Privileges and Rights of Patients
+i.Access to  health  care  facilities  and  emergency
+services  regardless  of  age,  sex,  religion,  social  or
+economic status.
+ii.Choice: To choose his own doctor freely.
+iii.Continuity: To receive continuous care for his illness
+from doctor/institution.
+iv.Comfort:  To  be  treated  in  comfort  during  illness
+and follow-up.
+v.Complaint:  Right  to  complain  and  redressal  of
+grievances.
+vi.Confidentiality:  All  information  about  his  illness
+should be kept confidential.
+vii.Dignity: To be treated with care, compassion, respect
+without any discrimination.
+viii.Information: Should receive full information about
+his  diagnosis,  investigations,  treatment  plans,
+alternative therapy, procedures, diagnosis, compli-
+cations and side-effects.
+ix.Privacy: To be treated in privacy.
+x.Refusal: Can  refuse any specific or  all measures.
+xi.Records:  Can  have  access  to  his  records  and
+demand summary or other details.
+Duties of a patient
+i.He  should  furnish  the  doctor  with  complete
+information  about  the  facts  and  circumstances  of
+his  illness.
+ii.He  should  strictly  follow  the  instructions  of  the
+doctor as regards diet, medicine and lifestyle.
+iii.He should pay a reasonable  fee to the doctor.
+Types  of  Physician-Patient  Relationship
+It is of two types:
+1.Therapeutic relationship: A doctor is free to accept or
+refuse  to  treat  a  patient,  subject  to  constraint  of  his
+work except in emergencies. He may refuse to treat the
+patient in following circumstances:
+i.Beyond  his practicing  hours.
+ii.Not belonging  to his  speciality.
+iii.Doctor or any other family member is ill.
+iv.Doctor having important social function in family.
+v.Illness beyond the competence and qualification of
+the doctor or beyond the facilities available in his
+setup.
+vi.Doctor having alcohol.
+vii.Patient is malingering.
+viii.Patient  has been  defaulting in  payment.
+ix.Patient or his relatives are abusive/uncooperative.
+x.Patient refuses to give consent.
+xi.Patient  demanding  specific  drugs,  like  amphe-
+tamine, steroids, etc.
+xii.Patient rejecting low-cost remedies in favor of high
+cost alternatives.
+xiii.At  night,  on  grounds  of  security,  if  patient  is  not
+brought to him.
+xiv.An unaccompanied minor or female patient.
+xv.When doctor remains engaged with an emergency
+or more serious case.
+xvi.Any new patient, if he is not the only doctor available.
+2.Formal relationship: It pertains to the situation where
+the  third  party  has  referred  the  person/patient  for
+impartial medical examination; e.g.:
+i.Pre-employment.
+ii.Insurance policy.
+iii.Yearly medical checkups.
+iv.Cases of rape or victims of crimes.
+v.Intimate body searches and other medico-legal cases.
+vi.In  certain  psychiatric  illnesses  referred  by  court/
+police.
+Doctor has to comply with the directive of the party
+demanding such examination.
+
+Medical Jurisprudence and Ethics
+13
+Professional  Negligence
+Definition:  Absence  of  reasonable  care  and  skill  or
+willful  negligence  of  a  medical  practitioner  in  the
+treatment of patient which causes bodily injury or death
+of the patient.
+Negligence  consists  of  two  acts:  Not  doing  something
+that a reasonable man, under the circumstances would
+do (act  of  omission);  or  doing  something  which  a
+reasonable prudent man under the circumstances would
+not do (act of commission).
+According  to  Black's  Law  Dictionary,  medical
+negligence requires that the plaintiff (i.e. patient) establish
+the following (4 D’s):
+i.Existence  of  the  physician's duty to  the  plaintiff,
+based  on  the  existence  of  the  physician-patient
+relationship.
+ii.Applicable  standard  of  care  and  its  violation
+(dereliction of duty).
+iii.Damage (a compensable injury).
+iv.Causal  connection  between  the  violation  of  care
+and the harm complained of (direct causation).
+‘Damage’ should be distinguished from ‘damages’. Damage
+(injury  or  harm)  to  the patient  may  be  physical,  mental  or
+financial.  Damages  are  assessed  by  the  court  based  on
+parameters, like loss of earning, medical and surgical costs
+or  reduction  of  quality  of  life.
+Potential  damages  (financial  compensation)  in  negligence
+suits  fall  into  three  categories:
+• Economic or the monetary costs of an injury (e.g. medical
+bills  or  loss  of  income)
+• Non-economic (e.g.  pain  and  suffering,  loss  of  ability  to
+have  sex)
+• Punitive or  damages  to  punish  a  defendant  for  willful
+and  wanton  conduct.
+Types: (Diff. 1.2)
+i.Civil
+ii.Criminal.
+Civil  Negligence
+Question of civil negligence arises:
+i.When  a  patient,  or  in  case  of  death,  any  relative
+brings  suit  in  a  civil  court  for  realization  of
+compensation  from  his  doctor,  if  he  has  suffered
+injury due to negligence.
+Differentiation 1.2:  Civil and  criminal negligence
+S.No.FeatureCivil  negligenceCriminal  negligence
+1.OffenceNo  specific  and  clearMust  have  specifically  violated  a  particular
+violation  of  lawcriminal  law  in  question
+2.NegligenceSimple  absence  of  careGross  negligence,  inattention  or  lack  of
+and skillcompetence
+3.Conduct  of  physicianCompared  to  a  generallyNot  compared  to  a  single  test
+accepted  simple  standard  of
+professional  conduct
+4.Consent  for  actGood  defense,  cannot  recoverNot  a  defense,  can  be  prosecuted
+damages
+5.Trial  byCivil  courtCriminal  court
+6.EvidenceStrong  evidence  is  sufficientGuilt  should  be  proved  beyond  reasonable  doubt
+7.PunishmentLiable  to  pay  damagesImprisonment,  fine  or  both
+8.Contributory  negligenceDefense  for  doctorNot  a  defense
+9.Double  jeopardy*Can  be  tried  twice  for  crimeCannot  be  tried  twice  for  the  same  crime
+10.DamageRepairable  damage  or  harmIrrepairable  damage  to  the  patient
+to  patient
+11.DisputeBetween  two  parties  in  theirBetween  the  state  and  the  offending  doctor
+individual capacities
+12.ComplainantSufferer  party  is  thePublic  prosecutor  on  behalf  of  the  state  is  the
+complainantcomplainant
+*Double  jeopardy  is  a  procedural  defense  (in  India,  US,  Canada,  Mexico  and  Japan—a  constitutional  right)  that  forbids  a
+defendant  from  being  tried  a  second  time  for  the  same  crime
+
+Fundamentals of Forensic Medicine and Toxicology
+14
+ii.When doctor brings a civil suit for the realization
+of his fees from patient or his relatives, who refuse
+to pay the same, alleging professional negligence.
+Civil  negligence  involves:
+•Such act on the part of the treating physician which
+causes some suffering, harm or damage to the patient
+•Damage is such, which can be compensated by paying
+money
+•Does not come under the purview of CrPC and IPC
+•Does not demand legal punishment
+Criminal  Negligence
+•Criminal  negligence  is  more  serious  than  civil
+negligence.
+•Practically limited  to cases in  which the  patient has
+died.
+•Mostly  associated  with  drunkenness  or  impaired
+efficiency due to the use of drugs by doctors.
+•Doctor shows gross incompetency and inattention in
+the  selection  and  application  of  remedies,  undue
+interference  by  him  or  criminal  indifference  to  the
+patient's safety.
+•Sec. 304 A IPC deals with criminal negligence; `who-
+ever  causes  the  death  of  any  person  by  doing  any
+rash  or  negligent  act  not  amounting  to  culpable
+homicide shuld be punished with imprisonment upto
+2  years with/without  fine’.
+15
+Examples of Medical Negligence
+It  is  impossible  to  give  a  complete  list  of  negligent
+situations in medical practice. However, some situations
+that frequently give rise to allegations of negligence are
+sited  in  Table  1.1.
+A physician may be liable to both civil and criminal
+negligence  by  a  single  act,  e.g.  if  he  performs  an
+unauthorized operation on a patient, he may be sued in
+civil court for damages and prosecuted in criminal court
+for assault.
+The  police  sometime  register  the  cases  of  professional
+negligence deaths under Sec. 304 IPC which is non-bailable
+offence,  whereas  if  it  is  registered  under Sec.  304-A  IPC,
+the  offence  is  bailable.  The  basic  difference  is  that  in Sec.
+304  there  is  intentional  act  of  negligence  while  in 304-A,
+the  act  is  never  done  with  the  intention  to  cause  death.
+Burden of Proof
+The  accused  (doctor)  is  innocent  until  proven  guilty,
+and the prosecution must prove the case against him/
+her. The plaintiff (patient) bears the burden of proof and
+must  convince  the  judge  by  a  preponderance  of  the
+evidence  that its  case  is more  plausible.
+16
+•In civil cases, a preponderance  of the evidence is at
+least 51%. It means that judges in a medical negligence
+case must be persuaded that the evidence presented
+by  the  plaintiff  is  more  plausible  as  the  proximate
+cause of the injury than any counterargument offered
+by the defendant.
+•In  criminal  cases,  the  prosecution  must  prove  their
+case ‘beyond reasonable doubt’ akin to a 98% or 99%
+certainty.
+Preventing  Medical  Litigation
+Some  ways/methods  to  minimize  litigation  are  sited
+below:
+•Awareness  of  potential  areas  of  litigation  and
+medico-legal problems: Doctor should be aware of
+the risks involved in certain procedures and should
+have  clear  knowledge  of  the  changes  in  legislation
+which  might  influence  his  practice.
+•Good 'doctor-patient' relationship: Sympathy, good
+rapport  and  taking  keen  interest  in  the  patient's
+apprehensions  and  complaints  are  hallmarks  in
+gaining the patient's confidence. A suspicious patient
+who has no faith in the physician is a potential litigant.
+•Appropriate training and maintenance of authorized
+protocol: Up-to-date and adequate training of medical
+and nursing staff is needed. It is dangerous to venture
+beyond    one's    c apabilit y   and    q ualificat ions .
+Maintaining a time-tested, well accepted protocol is
+necessary.  It  is  wise  to  seek  a  second  opinion.
+•Maintaining standard medical service: Limited work
+load  and  adequate  infrastructure  are  needed  to
+maintain  good  quality  service.  Minimum  standard
+for  nursing  homes  or  hospitals,  whether  public  or
+private, must be maintained.
+•Proper counseling and informed consent: Counseling
+and  informed  consent  is  mandatory  before  each
+medical/investigative/operative procedure.
+•Proper  investigation:  Any  non-invasive/invasive
+procedures should  be done,  provided the  risks and
+benefits  are duly  informed and  written consent  has
+been taken.
+•Adequate supervision and timely referral: Adequate
+supervision  by  a  well  organized  graded  system  is
+recommended.  Early  detection  of  complications  by
+resident  doctors  and  timely  notification  of  the
+consultant, especially in emergency cases, may prevent
+mishaps.
+•Surgical  intervention:  Surgical  procedures  should
+always be performed in places where there is sufficient
+equipment and qualified staff. Junior doctors should
+
+Medical Jurisprudence and Ethics
+15
+Table  1.1:  Examples  of  medical  negligence
+General  Errors
+•Inadequate  clinical  records  and  failure  to  examine  the  patient  himself/
+herself.
+•Failure  to  attend  a  patient  with  consequent  damage.
+•Failure  to  admit  to  hospital  when  necessary.
+•Failure  to  obtain  informed  consent  for  any  procedure.
+•Making  a  wrong  diagnosis  in  the  absence  of  skill  and  knowledge.
+•Administration of incorrect type/quantity of drugs, especially by injection.
+•Failure  to  immunize  and  perform  sensitivity  tests.
+•Failure  to  act  on  radiological  or  laboratory  reports.
+Medicine
+•Failure  to  diagnose  myocardial  infarcts  and  other  medical  conditions.
+•Failure  to  refer  a  patient  to  hospital  or  for  specialist  opinion.
+•Toxic  results  of  drug  administration.
+Surgery
+•Delayed  diagnosis  of  acute  abdominal  lesions.
+•Retention  of  instruments,  tubes,  towels,  sponges  and  swabs  in  operation
+sites.
+•Operating  on  the  wrong  patient,  wrong  side  of  the  body,  wrong  limb,
+digit  or  even  organ.
+•Failed vasectomy, without warning of lack of total certainty of consequent
+sterility.
+•Diathermy  burns.
+Obstetrics  and  Gynecology
+•Unwanted  pregnancy  due  to  failed  tubal  ligation.
+•Complications  of  hysterectomy—ureteric  ligation  and  vesico-vaginal
+fistulae.
+•Brain damage  in the newborn due  to hypoxia from  prolonged labor—fear
+of  litigation  for  this  has  resulted  in  a  higher  rate  of  caesarean.
+•Mismanagement  of  delivery,  especially  under  the  influence  of  alcohol/
+drug.
+•Performing  abortion  without  indication  (criminal  abortion).
+Orthopedics  and  Emergency  Medicine
+•Missed fractures, especially of the scaphoid, skull, femoral neck and cervical
+spine.
+•Over-tight  or  prolonged  use  of  plaster  casts  resulting  in  tissue  and  nerve
+damage.
+•Undiagnosed  intracranial  hemorrhage.
+•Missed  foreign  bodies  in  eyes  and  wounds,  especially  glass.
+•Inadequately  treated  hand  injuries,  particularly  tendons.
+Anesthesiology
+•Hypoxia  resulting  in  brain  damage.
+•Neurological  damage  from  spinal  or  epidural  injections.
+•Peripheral  nerve  damage  from  splinting  during  infusion.
+•Incompatible  blood  transfusion.
+•Incorrect  or  excessive  use  of  anesthetic  agents.
+
+Fundamentals of Forensic Medicine and Toxicology
+16
+be trained well and supervised in surgical care of the
+patient.
+•Meticulous  record  keeping:  Often  proper  record
+keeping can prove  the doctor innocent in  the court.
+However, fabrication of records after any mishap is
+dangerous.
+•Morbidity and mortality audits: Discussions, analysis
+and  constructive  criticism  of  errors  and  omissions
+help in improving and maintaining standard of patient
+care.
+•Medical indemnity insurance: The doctor must cover
+himself with indemnity insurance.
+•Medical defense procedure: Efficient defense attorney
+is important to defend one against a malpractice and
+negligence  suit.  The  attorney  must  be  aware  of  the
+expected standard of patient care.
+Defenses  Against  Negligence
+In case of alleged negligence, following may be helpful
+for defense:
+•No  duty  owed  to  patient,  i.e.  no  doctor-patient
+relationship  was  established.
+•Duty discharged according to prevailing standards.
+•Informed consent for the act: The patient was duly
+informed of the consequences.
+•Patient was guilty of contributory negligence.
+•Therapeutic misadventure.
+•Medical maloccurrence.
+•Error of judgment. The court has held that the error
+of  judgment  was  not  a  case  of  negligence  as
+contended. If, for e.g. one of the risks inherent in an
+operation  takes  place  or  some  complication  ensues
+which lessens the benefit that was hoped for, he makes
+an error of judgment.
+•Mistake  of  fact  is  a  situation  where  a  person  not
+intending  to  do  unlawful  act,  does  so  because  of
+wrong conclusion or understanding of fact. The guilty
+mind was never there while doing the act. It can be
+a  factor  in  reducing  civil  liability  but  not  criminal
+liability.
+•Res judicata means ‘the things have been decided’.
+According to this principle, once the case is completed
+between two parties, it cannot be tried again between
+the  same  parties.  Suppose  a  patient  sues  a  hospital
+for  any  malpractice  and  the  things  are  decided,  he
+cannot subsequently sue the doctor again separately
+for the same negligence.
+•Limitation: The  case  against  the  doctor  should  be
+filed within 2 years from the date of alleged negligence.
+No fee was charged for the treatment cannot be a defense
+in  cases  of  negligence.
+11
+Documentation: It is a part of medical training and one
+must  make a  habit  of keeping  records,  not  only in  the
+interest of medical science, but also for his own safety
+and interest. The dictum is that 'If it is not in the record—
+it did not occur'.
+Doctrine  of  Res  ipsa  loquitur
+•Generally, professional negligence of  a doctor must
+be  proved  in  court  by  expert  evidence  of  another
+physician.
+•The patient need not prove negligence in case where
+the rule of res ipsa loquitur applies, which means ‘the
+thing  or  fact  speaks  for  itself’.
+•Applies to  both civil  and criminal  negligence.
+•Error is so self-evident that the patient's lawyer need
+not  prove  the  doctor's  guilt  with  medical  evidence.
+The  doctor has  to  prove his  innocence.
+17
+•Rule is applied when the following three conditions
+are satisfied:
+i.In the absence of negligence, the injury would not
+have occurred
+ii.Doctor  had  exclusive  control  over  the  injury
+producing instrument/treatment
+iii.Patient was not guilty of contributory negligence.
+Examples
+i.Blood transfusion misadventure.
+ii.Failure to give anti-tetanic serum in cases of injury.
+iii.Prescribing an overdose of medicine producing ill
+effects.
+iv.Leaving  a  pair  of  scissors  in  abdomen.
+18
+v.Failure to remove swabs during operation, causing
+complications/death.
+vi.Loss  of use  of  hand  due to  prolonged  splinting.
+In such situations, the breach of duty is obvious, so
+the  strategy  of  the  defense  generally  must  be  to  show
+that the  patient was  not harmed  by the  breach.
+Calculated  Risk  Doctrine
+•The  doctrine  is  that, res  ipsa  loquitur  should  not  be
+applied  when  the  injury  complained  is  of  type  that
+may  occur  even  though  reasonable  care  has  been
+taken.
+•It is an important defense to any doctor.
+•Doctor  has  to  produce  evidence/statistics  that  the
+accepted  method  of  treatment  he  employed  had
+unavoidable risks.
+•For  example,  when  a  patient  undergoing  coronary
+bypass dies during the surgery, it becomes a case of
+professional accident as there is already an inherent
+risk  of  2-5% associated  with  it.
+
+Medical Jurisprudence and Ethics
+17
+Doctrine  of  Common  Knowledge
+•It  is  based  on  the  assumption  that  the  issue  of
+negligence  in  the  particular  case  is  not  related  to
+specialized  knowledge  or  technical  matters  of  the
+medical profession, but an act involving application
+of common knowledge.
+•Experts may not provide evidence regarding matters
+of ‘common knowledge’.
+•It  is  a  variant  of res  ipsa  loquitur.
+19
+•Here, the patient must prove the act of commission or
+omission,  but  he  need  not  produce  evidence  to
+establish the  standard of  care.
+Doctrine  of  Avoidable  Consequence  Rule
+•Once plaintiff (patient) has been injured, he must take
+reasonable  steps  to  lessen  the  consequences  of  his
+original  injury.  A  defendant  (accused)  will  not  be
+liable  of  any  further  injury  that  the  plaintiff  could
+have reasonably avoided.
+•The doctrine is different from contributory negligence.
+The  latter  is  unreasonable  conduct  by  plaintiff.  It
+occurs  before  or  simultaneously  with  the  wrong
+committed by the defendant.
+20
+•The  doctrine  refers  to  unreasonable  conduct  by  the
+plaintiff after the defendant has wronged the plaintiff.
+The amount of recovery is reduced.
+•Thus, if the plaintiff, after injury, unreasonably refuses
+to accept medical attention for a foot injury and as a
+result ultimately suffers amputation of the foot that
+otherwise  would  have  healed,  then  the  avoidable
+consequences  rule  would  deny  recovery  for  loss  of
+foot but would not affect other damages.
+The eggshell skull rule (thin-skull rule) is a legal doctrine
+used in both civil and criminal law that holds an individual
+liable  for  all  consequences  resulting  from  their  activities
+leading  to  an  injury  to  another  person,  even  if  the  victim
+suffers unusual damages due to a preexisting vulnerability
+or  medical  condition.
+Medical  Maloccurrence
+•Medical maloccurrence is the legal term which defines
+a  less  than  ideal  outcome  of  medical  care,  and
+maloccurrence  is  often  unrelated  to  the  reasonable
+risks of quality of care that was provided.
+•In some cases, in spite of good medical attention and
+care, an  individual fails to  respond properly.
+•For example, idiosyncratic response to drugs in some
+patients or damage to recurrent laryngeal nerve during
+thyroidectomy leading to vocal cord paralysis.
+Novus  Actus  Interveniens
+(Unrelated Intervening Action)
+•If doctor is negligent, which results in deviation from
+the logical sequence of events, then the responsibility
+for the subsequent disability or death may pass from
+original incident to the negligent act of doctor.
+•For  a  plea  of novus  actus  interveniens,  an  element  of
+negligence  is  essential.
+•It usually applies to cases of accidents and assaults,
+like  leaving  a  swab  or  instrument  in  the  abdomen
+after laparotomy.
+•Plea is rarely accepted by the courts.
+Contributory  Negligence
+Definition:  Any  unreasonable  conduct,  or  absence  of
+ordinary  care  on  part  of  the  patient  or  his  attendant,
+which combined with doctor's negligence contributed to
+the injury complained of, as a direct cause and without
+which the  injury would not  have occurred.
+21
+•Good defense for the doctor in civil cases, but not in
+criminal  cases.
+22
+•Doctor has to prove patient's negligence. But, doctor
+is  expected  to  foresee  that  the  patient  may  harm
+himself and to  warn accordingly.
+•For example, patient did not give proper history, failure
+to follow doctor's instructions  regarding drugs, tests
+and diet, or leaving the hospital against doctor's advice.
+•Damages awarded by the court may be reduced.
+Composite  negligence:  Injury  is  caused  to  the  person
+without  any  negligence  on  his  part,  but  as  a  result  of  the
+combined  effect  of  the  negligence  of  some  other  persons
+(two  or  more).  In  such  a  case,  each  wrong  doer  is  jointly
+and severally liable to the injured for payment of the entire
+damag es  and  the   injured  person  ha s  the  choi ce  of
+proceeding  against  all  or  any  of  them.
+Therapeutic  Misadventure/Hazard
+Definition: It is a case in which an individual has been
+injured  or  had  died  due  to  some  unintentional/
+inadvertent  act  by  doctor  or  his  agent  or  hospital
+(somewhat  similar  to  medical  maloccurrence).  Such
+mishap does not provide ground for negligence, e.g.
+i.Hypersensitivity  reactions  caused  by  penicillin,
+tetracycline and  aspirin.
+ii.Radiological procedures for diagnostic purposes,  e.g.
+poisoning  by  barium  enema,  traumatic  rupture  of
+rectum or chemical peritonitis during barium enema.
+
+Fundamentals of Forensic Medicine and Toxicology
+18
+iii.Thyroid cancer with I
+131
+ therapy.
+iv.Fatal complications from hemolytic reactions with
+blood transfusion.
+v.Prolonged use of diethylstilbestrol, a synthetic form
+of estrogen, may cause breast cancer.
+Misadventure  is  mischance,  accident  or  disaster.
+It  is  of  three  types:
+i.Therapeutic:  when  treatment  is  being  given.
+ii.Diagnostic: when diagnosis is the  only objective at that
+time,  e.g.  injection  of  radiopaque  dye  in  radiological
+investigation,  bronchoscopy  and  angiography.
+iii.Experimental:  where  patient  has  agreed  to  serve  as  a
+subject  in  an  experimental  study  (drug/operative
+procedure).
+Vicarious  Liability/Respondeat  Superior
+Definition: An employer is responsible for the negligent
+act  of  his  employees  by  the  principle  of  'respondeat
+superior' (Latin, 'let the master answer), if three conditions
+are satisfied:
+i.There must be an employer-employee relationship
+ii.The employee's conduct must occur within the scope
+of his employment
+iii.Incident must  occur while on  the job
+•It also called the 'Master-Servant Rule'.
+•In  medical  practice,  usually,  the  principal  doctor
+becomes  responsible  for  any  negligence  of  his
+assistants (both medical and para-medical). Both may
+be sued by the patient, even though the principal has
+no  part  in  the  negligent  act.
+•A doctor may be associated temporarily with another
+doctor  with  the  establishment  of  an  employee-
+employer  relationship  between  them.  Thus,  if  one
+doctor assists another in the operating room for a fee,
+the  assistant  is  considered  as  an  employee  of  the
+principal surgeon.
+•When two doctors practice as partners, each is liable
+for negligence of the other, even though one may have
+no  part  in  the  negligent  act.
+•If a swab, sponge or instrument is left in the patient's
+body  after  the  operation,  the  surgeon  is  liable  for
+damages. A surgeon is not liable for the negligence of
+anesthetist,  and  the  anesthetist  is  not  liable  for  the
+negligence of the operating surgeon.
+•`Borrowed servant doctrine’: An employee may serve
+more than one employer, e.g. the nurse employed by
+a hospital to assist in operations will be the 'borrowed
+servant' of the operating surgeon during the operation,
+and the servant of the hospital for all other purposes.
+•Physicians and surgeons are not responsible for the
+negligent  acts  of  competent  nurse  or  other  hospital
+personnel,  unless  such  acts  are  carried  out  under
+their direct supervision and control.
+•A  hospital,  as  an  employer,  is  responsible  for
+negligence of its employees who are acting under its
+supervision and control.
+•Hospital management cannot be held responsible for
+the negligent acts of members of the senior medical
+staff in the treatment of patients, if it can be proved
+that the management exercised due care and skill, in
+selecting properly qualified and experienced staff.
+•Hospital  management  is  held  responsible  for  the
+mistakes  of  resident  physicians  and  interns  in
+training,  who  are  considered  employees  when
+performing  their  normal  duties.  A  physician  is
+responsible  for the  acts of  the  interns and  residents
+carried out under his direct supervision and control.
+23
+•Both  the  employer  and  employee  are  sued  by  the
+patient,  because  the  employee  may  lack  funds  for
+paying  the  damages.  Usually,  liability  will  be  fixed
+upon those actually at fault and those whose control
+over the negligence is demonstrable.
+•To  avoid  vicarious  liability,  an  employer  must
+demonstrate  either  that  the  employee  was  not
+negligent or the employee was reasonably careful or
+that the employee had gone on a 'detour', wherein the
+employee was acting in his own right, rather than on
+the employer's business.
+Corporate  Negligence
+Definition:  It  is  the  failure  of  those  in  hospital
+administration/management  who  are  responsible  for
+providing the treatment, accommodation and facilities
+necessary to carry out the purpose of the institution, to
+follow the established standard of conduct.
+It  occurs when  hospital:
+•Provides defective equipment or drugs.
+•Selects  or  retains  incompetent  employees  including
+doctors.
+•Fails  in  some  other  manner  to  meet  the  accepted
+standard of care and such failure results in injury to
+a  patient  to  whom the  hospital  owes  a  duty.
+Products  Liability
+Definition: It refers to the physical agent that caused the
+injury or death of the patient during treatment.
+•The plaintiff must prove that:
+i.Manufacturer departed from standards of due care,
+with  respect  to  design,  manufacture,  assembly,
+packaging, failure to test and inspect for defects or
+failure to warn or give adequate instructions.
+ii.Defect was the proximate cause of injury/death.
+If it is proved, the manufacturer becomes responsible
+for injury or death.
+
+Medical Jurisprudence and Ethics
+19
+•The burden of proving the safety and effectiveness of
+a  new  drug/device/ins trument  lies  wit h  the
+manufacturer.
+Consent
+Definition: Consent (Latin consentirez: 'to feel or sense
+with')  means  voluntary  agreement,  compliance  or
+permission. As per  the Sec. 13  of the  Indian Contract
+Act,  1872:  `two  or  more  persons  are  said  to  consent
+when they agree upon the same thing in the same sense
+(meeting of the minds).’
+Types (Flow chart 1.3)
+Broadly, consent is of two types:
+1.Implied:  When  the  patient  presents  himself  at  the
+doctor's clinic or outpatient, it is held to imply that he
+is agreeable to be examined. This does not imply to
+procedures more complex than inspection, palpation,
+percussion and auscultation.  For  other  examinations,
+like rectal and vaginal and  withdrawal of blood for
+diagnostic purposes, expressed permission should be
+obtained.
+2.Expressed: Specifically stated by the patient in distinct
+and  explicit  language.  It  can  be:
+i.Oral/verbal consent is obtained for relatively minor
+examinations or therapeutic procedures, preferably
+in presence of disinterested party, like nurse.
+ii.Written consent is to be obtained for:
+•All major diagnostic procedures
+•General  anesthesia
+•Operations.
+Doctrine of Informed Consent
+24
+It implies  an understanding  by the  patient of:
+i.Condition or  nature of  illness
+ii.Purpose  and  nature  of  procedure  or  treatment
+proposed
+iii.Risks and benefits of treatment or procedure
+iv.Prospect of success or failure
+v.Risks  and  benefits  of  alternative  treatment(s)  or
+procedure(s)
+vi.Prognosis in the  absence of intervention
+vii.Acceptance or refusal (informed refusal) of the said
+procedure or intervention
+The knowledge regarding the intervention should be
+imparted in an understandable language and format so
+that decision in the form of authorization by patient can
+be made.
+•There  are no  clear  parameters  laid down  regarding
+the quantum of information to be given for informed
+consent. Therefore, it is reasonable information which
+a doctor deems fit considering best practices.
+•The  standard  to  which  physicians  are  held  in
+negligence  suits  is  that  of  a  ‘reasonable  physician’
+dealing  with  a  ‘reasonable  patient.’
+Exceptions  to  informed  consent
+•Emergencies  (Sec.  92  IPC)
+•Therapeutic  privilege
+•Therapeutic  waiver
+•Medico-legal  postmortems  (Sec.  174  CrPC)
+•Examination  of  an  arrested  accused  [Sec.  53  (1)  CrPC]
+•Treatment  of  patient  suffering  from  ‘notifiable  diseases’
+for  greater  community  interest
+•Psychiatric  examination  or  treatment  by  court  order
+•Prisoners  (new  entrants)
+•Therapeutic  privilege:  The  'therapeutic  privilege'
+enables  the  doctor  to  withhold  from  patient  the
+information (as to risk), if the disclosure would pose
+serious  psychological  threat  to  the  patient  (e.g.
+malignancy or unavoidable total results). However,
+he  should  disclose  full  information  to  a  competent
+relative of the patient.
+•Therapeutic  waiver:  A  competent  person  who  is
+aware of being entitled to informed consent may give
+up  his  right  by  waiving  it.
+Consenting Ages for Treatment
+•The  age  of  consent  for  medical  examination  and
+treatment  is  legally accepted  as >
+  12  years.
+25
+•For a child < 12 years of age, or a patient of unsound
+mind, his/her guardian or person in whose custody
+he/she  is,  can  give  consent.
+•For any invasive and diagnostic procedures, general
+anesthesia and surgical operations, age of consent is
+>  18  years.
+•Medico-legal examination  is a  contract between  the
+doctor  and  the  patient  which  has  got  some  legal
+consequences. The age of consent for such examination
+is >  18  years.
+In accordance with the Indian Contract Act, a person is
+generally competent to contract (i) if he has attained the age
+majority (18 years in India), (ii) is of sound mind, and (iii) is
+not disqualified by any law to which he is subject to.
+Flow  chart  1.3: Types  of  consent
+
+Fundamentals of Forensic Medicine and Toxicology
+20
+Impairments to reasoning and judgment which may make
+it impossible for someone to give informed consent include
+basic  intellectual  or  emotional  immaturity,  high  levels  of
+stress  such  as  PTSD,  severe  mental  retardation  or  illness,
+senility,  delirious  intoxication,  severe  sleep  deprivation,
+Alzheimer’s  disease  and  coma.
+Reasons for Obtaining Consent
+i.To examine, treat or operate upon a patient without
+consent  is assault (battery)  in  law,  even  if  it  is
+beneficial  and  done  in  good  faith.
+26
+ii.If a doctor fails to give the required information to the
+patient before taking consent to a particular operation/
+treatment, he may be charged for negligence.
+iii.  Not  taking  consent  is  considered  as  deficiency  in
+medical  services  under  the  section  2(1)  of  the
+Consumer Protection Act.
+Rules of Consent
+i.  Consent should be free, voluntary, clear, intelligent,
+informed, direct and personal. There should be no
+undue influence, fraud, misrepresentation of facts,
+compulsion, coercion or other consequences.
+ii.Informed consent is legally not required to be in
+writing, but provides evidence that consent was
+in fact  obtained, if  necessity arises.
+•It should be in a proper form and suitably drafted
+for  the  circumstances.  The  more  specific  the
+consent, the less likely it will be construed against
+the doctor or hospital in court.
+•The  written  consent  should  be  witnessed  by
+another person, present at the signing to prevent
+any  allegation  that  the  consent  was  forged  or
+obtained under pressure.
+iii.Any  procedure  beyond  routine  physical  exami-
+nation,  such  as  operation,  blood  transfusion  or
+collection of blood requires expressed consent.
+iv.T he  d oct or   s hould   ex plain   t he  obj ec t   of
+examination to the patient and patient should be
+informed that the findings would be included in
+the medical report.
+v.Patient  should  be  informed  that  he  has  right  to
+refuse to submit to examination and that the result
+may  go  against  him.  If  he  refuses,  he  cannot  be
+examined.
+vi.A person >
+ 18 years of age can give valid consent
+to suffer any harm, which may result from an act
+not  intended  or  not  known  to  cause  death  or
+grievous hurt (Sec. 87 IPC).
+vii.A  person  can  give  valid  consent  to  suffer  any
+harm which may result from an act not intended
+or not known to cause death, done in good faith
+and for his  benefit (Sec. 88  IPC).
+viii.A  child  <  12  years  of  age  and  an  insane  person
+cannot give valid consent to suffer any harm which
+may result from an act done in good faith and for
+his benefit. The consent of the parent or guardian
+should be taken (Sec. 89  IPC).
+Loco parentis (Latin, ‘in place of a parent’): In
+an  emergency  involving  children,  when  their
+parents or guardians are not available, consent is
+taken from the person-in-charge of the child, e.g.
+a  school  teacher  can  give  consent  for  treating  a
+child  who  becomes  sick  during  a  picnic  away
+from  home,  or  the  consent  of  the  principal  of  a
+residential school.
+ix.The  consent  given  by  an  insane  or  intoxicated
+person,  who  is  unable  to  understand  the  nature
+and  consequences  of  that  to  which  he  gives  his
+consent  is  invalid (Sec.  90  IPC).
+x.Sec.  92  IPC deals  with  cases  of  emergency,  e.g.
+head injury requiring urgent decompression.
+27
+ It
+states that any harm caused to a person in good
+faith, even without the person's consent, is not an
+offence,  if  the  circumstances  are  such  that  it  is
+impossible for that person to signify consent and
+has no guardian or other person in lawful charge
+of him from whom it is possible to obtain consent
+in  time  for the  thing  to  be  done in  benefit. In  an
+emergency, the law implies consent.
+28
+xi.Even in emergency, unless patient is unconscious,
+the consent offered by the parents of major is void
+and amount to negligence.
+xii.Nothing  is  said  to  done  in  good  faith  which  is
+done without due care and attention (Sec. 52 IPC).
+xiii.Consent of the in-mates of the hostel is necessary,
+if they are > 12 years of age. Within 12 years, the
+principal  or  warden  can  give  consent.
+xiv.In  civil  cases,  examination  should  not  be  done
+without the consent of the person to be medically
+examined.
+xv.In criminal cases, the victim cannot be examined
+without his/her consent. The court cannot force a
+person to get medically examined.
+• In  rape  cases,  victim  should  not  be  examined
+without her written consent.
+• In medico-legal cases of pregnancy, delivery and
+abortion,  the  woman  should  not  be  examined
+without her consent.
+xvi.Under Sec. 53 (1) CrPC, an accused can be examined
+by a doctor by using reasonable force, if requested
+by a police officer (not below S.I.), if examination
+may  provide  evidence  to  the  commission  of  the
+offence.
+Whenever  a  female  is  to  be  examined,  the
+examination shall  be  made  only  by,  or  under  the
+
+Medical Jurisprudence and Ethics
+21
+supervision of a female medical practitioner. Such an
+examination by a male doctor must not be carried
+out even in the presence of a female nurse [Sec. 53
+(2) CrPC].
+xvii.Under Sec. 54 CrPC, an arrested  person may be
+examined  by  a  doctor  at  his  request  to  detect
+evidence in his favor, a copy of the report is to be
+furnished by the doctor to the arrested person.
+xviii.Consent of  one’s spouse is  not necessary  for the
+treatment of other. Husband or wife has no right
+to  refuse  consent  to  any  operation,  which  is
+required to safeguard the health of the partner.
+xix.For  contraceptive  sterilization  and  artificial
+insemination, consent of both husband and wife
+should be obtained.
+xx.The  law  provides  the  consent  in  any  procedure
+made compulsory by state, e.g. mass immunization.
+xxi.In case of consent for donation of organ after death,
+the  will of  the  deceased is  enough.
+xxii.In  prenatal  diagnostic  procedures,  informed
+written  consent  of  pregnant  woman  is  obtained
+and a copy of the consent is given to the woman.
+xxiii.Pathological  autopsy  should  not  be  carried  out
+without the consent of next of kin of the deceased.
+29
+xxiv.Medico-legal autopsy does not require any consent
+from the relatives of the deceased.
+Consent  is  invalid  if:
+•It  is  not  an  informed  consent.
+•Given  for  committing  a  crime  or  an  illegal  act,  such  as
+criminal  abortion.
+•Obtained  by  misrepresentation  or  fraud.
+•Given  by  one  who  had  no  legal  capacity  to  give  it,  e.g.
+a  minor  or  an  insane  person.
+•Substituted  consent:  If  a  person  in  need  of  treatment  is
+incapable  of  giving  informed  consent,  consent  (proxy
+consent)  must  be  obtained  from  next  of  kin.  The  order
+of succession is generally spouse, adult child, parent and
+sibling.
+•Blanket  (open)  consent:  The  consent  practiced  in  most
+hospitals  that  cover  almost  everything  a  doctor  might
+do  to  a  patient  without  mentioning  anything  specific.  It
+is  of  questionable  legal  validity.
+•Presumed consent  assumes that  an  individual agrees  in
+principle  to  the  said  procedure;  if  not,  he/she  must
+withdraw  his/her  consent  i.e.  'opt  out'.
+Medical  Records
+Medical  records  pertains  to  documents  containing  a
+chronological  written  account  of  the  patient’s  medical
+history  and  complaints,  physical  findings,  results  of
+diagnostic tests, medications, therapeutic procedures and
+day-wise  progress  notes  recorded  by  a  medical
+practitioner.
+•It serves as a documentary evidence of the patient’s
+illness,  treatment  and  response  to  treatment.  This
+record may be used as evidence in malpractice suits,
+claims  of  the  insurances  and  compensations  in
+personal  injury  suits.
+•Records  are  the  property  of  the  hospital  and  the
+personal  data  contained  in  the  medical  record  is
+considered confidential information and the property
+of the patient.
+•Original hospital record of the medico-legal case (MLC)
+including X-ray/CT/MRI films should not be handed
+over to the police. However, if the investigating officer
+requests, a photocopy of the record (bed-head-ticket)
+may be  supplied and  a receipt  of the  same must  be
+obtained.
+•Medico-legal report (MLR) and post-mortem report
+(PMR) belongs to the requestor i.e. the police and the
+same is held by the doctor in fiduciary relationship.
+•If affected party is asking for a record, then attested
+photocopy  of  the  MLR  may  be  handed  over  to  the
+patient or his/her relative and after the requisite fee
+has  been  paid  by  applicant.
+•Request for supply of copy of MLR or PMR under the
+RTI Act are not maintainable under Section 8(1) (e) &
+Section 8(1) (h). It should not be issued to third parties
+(including the  accused) by  the hospital  authorities.
+•Safe  custody  of  the  patient's  confidential  records,
+whether  kept  in  conventional  manner  or  in  a
+computer, is the responsibility of the doctor.
+•Patient's  record  cannot  be  used  in  clinics  or
+conferences without the patient's consent.
+•Hospitals  have the  right to  use  the records  without
+consent for evaluating the quality of care and statistical
+purposes.
+•X-ray films are the property of the hospital/doctor as
+part of the record, the patient is entitled for the skill
+and treatment, but copies of records and X-ray films
+may be given.
+•Under  the  Directorate  General  of  Health  Services
+guidelines  published  in  ‘Hospital  Manual’,  the
+responsibility of hospital to keep medical records is
+upto  5  years  for  outpatient  department,  and  for
+inpatient  medical  records  (including  case  sheets  of
+medico-legal  cases) it  is  upto 10  years.
+30
+Malingering (Shamming)
+Defin ition:  It  is  a c ons cious  planned  feigning or
+pretence to hav ing a disease in ord er to achieve a
+specific goal.
+31
+
+Fundamentals of Forensic Medicine and Toxicology
+22
+Reasons
+i.By soldiers or policemen to evade their duties
+ii.By prisoners to avoid hard work
+iii.By businessmen  to avoid  business contracts
+iv.By workmen to claim compensation
+v.By beggars to attract public sympathy
+vi.By criminals  to avoid  legal responsibility
+Diseases feigned: Ophthalmia, neurasthenia, dyspepsia,
+aphasia, intestinal colic, sciatica, diabetes, vertigo, spitting
+of  blood,  epilepsy,  ulcers,  insanity,  burns,  paralysis  of
+limbs, rheumatism, artificial bruise and lumbago.
+•Usually the signs and symptoms do not conform to
+any  known  disease.
+•Patients can distort or exaggerate their symptoms, but
+true simulation is very rare.
+•History of the case should be taken from the person
+himself  and  his  relatives  or  friends  and  any
+inconsistencies  in  this  description  of  the  symptoms
+are noted.
+•A complete  examination is  essential after  removing
+the  bandages,  if  any,  and  washing  the  part.
+•It can be diagnosed by keeping the patient under
+observation  and watching him without his knowledge.
+Euthanasia (Mercy Killing)
+Definition: Euthanasia  (Greek,  good  death)  denotes
+producing  painless  death  of  a  person  suffering  from
+hopelessly  incurable  and  painful  disease.
+Types: It can be of two types (Diff. 1.3)
+i.Active euthanasia
+ii.Passive  euthanasia
+It  can also  be classified  into:
+i.Voluntary  euthanasia:  Wherein  the  individual
+requests euthanasia, either during illness or before,
+if complete incapacitation is expected.
+ii.Non-voluntary euthanasia: Where an individual is
+incapable  of  perception  and  feeling  and  hence
+cannot decide or distinguish between life and death,
+such  a  person  cannot  give  informed  consent,  e.g.
+when resuscitation is not expected after severe brain
+damage  as  in  coma patients  or  severely  defective
+infants.
+iii.Involuntary  euthanasia:  Where  an  individual
+may  distinguish  between  life  and  death,  any
+medical killing is involuntary i.e. against the will of
+the  person.  It  is  ethically,  morally  and  legally
+considered  as  murder.  This  is  not  to  be  confused
+with medical killing in cases of capital punishment.
+Arguments against Euthanasia
+i.It  is  against  medical  ethics.
+ii.It would not only be for people who are 'terminally
+ill', but may be used to commit murder.
+iii.It can become a means of health care cost containment.
+iv.It may become non-voluntary.
+v.It  is  a  rejection  of  the  importance  and  value  of
+human life.
+Reasons for Euthanasia
+i.Unbearable pain.
+ii.High cost of medical treatment.
+iii.Right to commit suicide.
+iv.People should not be forced to stay alive.
+•Recently, Supreme Court has allowed passive euthanasia
+in  patients  with  permanent  vegetative  state  but  rejected
+active  euthanasia.  The  decision  has  to  be  taken  to
+discontinue  life  support  either  by  parents  or  spouse  or
+other  close  relatives  or  in  the  absence  of  any  of  them—
+by  a  person  or  a  body  acting  as  a  `next  friend’.
+•Belgium,  Netherlands,  Luxemburg,  Thailand,  New
+Zealand  and  US  state  of  Oregon  permit  some  forms  of
+euthanasia.
+•The terms 'physician-assisted suicide' and 'euthanasia' are
+often  used  interchangeably.
+•By far, most reported cases of euthanasia concern cancer
+patients.
+Differentiation  1.3:  Active  and  passive  euthanasia
+S.No.FeatureActive euthanasiaPassive euthanasia
+1.DefinitionPositive  merciful  act,  to  end  uselessDiscontinuing  or  not  using  extraordinary
+suffering  or  a  meaningless  existencelife-sustaining  measures  to  prolong  life
+32
+2.PrincipleIt  is  an  act  of  commissionIt  is  an  act  of  omission
+3.ProcedureAdministration  of  lethal  doses  ofAllowing  death  by  not  resuscitating  a
+opium/barbiturate/sodium  thiopentalterminally  ill  or  incapacitated  patient  or
+and  then  a  muscle  relaxantdefective  newborn  infant
+4.CharacteristicUsing  measures  that  would  hastenNot  using  measures  that  would  delay  death
+featuredeath
+5.Followed  inNetherlands  and  BelgiumIndia  and  in  some  states  of  US  (e.g.  with
+holding  tube-feeding)
+
+Medical Jurisprudence and Ethics
+23
+1.  A2.  A3.  B4.  D5.  C6.  A7.  B8.  C9.  B
+10.  C11.  A12.  D13.  C14.  D15.  C16.  B17.  B
+MULTIPLE  CHOICE  QUESTIONS
+1.Medical  etiquette:TN  05
+A.Deals  with  the  conventional  laws  of  the  courtesy
+observed between members of the medical profession
+B.Deals  with  legal  responsibilities  of  the  physician
+C.Deals  with  the  study  of  the  effects  of  violence  or
+unnatural disease
+D.Deals with the moral principles which should guide
+members of the medical profession in their dealings
+2.Schedule  that  recognize  medical  qualifications
+awarded  by  institutions  in  India:AIIMS  11
+A.Schedule  IB.Schedule  II
+C.Schedule  III  Part  ID.Schedule  III  Part  II
+3.Medical qualifications awarded by institutions outside
+India  and  recognized  by  MCI  are  registered  in: AI  06
+A.First  schedule  of  Indian  Medical  Council  Act  1956
+B.Second schedule of Indian Medical Council Act 1956
+C.Part  I  of  third  schedule  of  Indian  Medical  Council
+Act  1956
+D.Part  II  of  third  schedule  of  Indian  Medical  Council
+Act  1956
+4.Professional  death  sentence  is  given  by:AFMC  11
+A.Central  Health  Ministry
+B.Medical  Council  of  India
+C.Indian Medical Association
+D.State  Medical  Council
+5.Appeal  against  penal  eraser  can  be  done  in:WB  11
+A.State  Medical  Council
+B.Medical  Council  of  India
+C.Central  Health  Ministry
+D.State  Health  Ministry
+6.Prohibition  of  participation  in  torture  by  a  doctor
+comes  under:MP  10
+A.Declaration  of  Tokyo
+B.Declaration  of  Helsinki
+C.Declaration  of  Oslo
+D.Declaration  of  Geneva
+7.Declaration  of  Helsinki  is  about:Orissa  11
+A.Organ  transplantation
+B.Human  experimentation
+C.Torture
+D.Physician’s  oath
+8.Declaration  of  Oslo  is  related  to  which  among  the
+following:DNB 10
+A.Torture
+B.Capital  Punishment
+C.Medical  Termination  of  Pregnancy
+D.Human  experimentation
+9.In the court of law, professional secrecy can be divulged
+under:Manipal  11
+A.Doctrine  of  Common  Knowledge
+B.Privileged  communications
+C.Res  ipsa  loquitor
+D.Therapeutic  privilege
+10.Privileged  communication  is  between:AI  09
+A.Doctor-patientB.Doctor-medical  council
+C.Doctor-courtD.Doctor-police
+11.Dichotomy  means:Manipal  04
+A.Fee  splitting
+B.Summons
+C.Civil  wrong
+D.Employing  touts  to  get  patients
+12.Infamous  conduct  comprises  of  all, except:Delhi  11
+A.Adultery
+B.Advertising
+C.Procuring  criminal  abortion
+D.Examining  a  patient  without  consent
+13.Professional  death  sentence  is:  TN  07
+A.Imprisonment  for  life
+B.Rigorous  imprisonment
+C.Erasing  of  name  from  the  medical  register
+D.Death  by  hanging
+14.False  statement  regarding  Red  Cross  sign:AI  10
+A.Can  be  used  by  Army  medical  services
+B.Punishable  to  use  it  without  permission
+C.Used  by  members  of  Red  Cross
+D.Can  be  used  by  doctors  and  ambulances
+15.If  death  of  a  patient  occurs  during  surgery  due  to  the
+negligence  of  the  surgeon,  then  he  can  be  charged
+under:UP  05;  COMEDK  07; DNB  09
+A.299  IPCB.300  IPC
+C.304  A  IPCD.304  B  IPC
+16.In  civil  negligence  cases  against  the  doctor,  the  onus
+of  the  proof  lies  with:AIIMS  11
+A.Doctor
+B.Patient
+C.First  class  judicial  magistrate
+D.Police  not  below  the  rank  of  sub-inspector
+17.Burden  to  prove  defense  lies  with  the  doctor  in  case
+of:UP  11
+A.Mens  rea
+B.Res  ipsa  loquitor
+C.Res juidicata
+D.Respondeat  superior
+
+Fundamentals of Forensic Medicine and Toxicology
+24
+18.  C19.  C20.  C21.  C22.  A23.  D24.  A25.  A26.  A27.  D28.  B
+29.  C30.  D31.  D32.  D
+18.During  an  operation,  if  a  pair  of  scissors  is  left  in
+abdomen,  the  doctrine  applicable  is:
+Kerala  04;  JIPMER  10
+A.Res  integraB.Res  gestae
+C.Res  ipsa  loquitorD.Res  judicata
+19.Doctrine  of  Common  Knowledge  is  a  variant  of:
+Orissa  11
+A.Medical maloccurance
+B.Novus  actus  interveniens
+C.Res  ipsa  loquitur
+D.Calculated  risk  doctrine
+20.Contributory  negligence  is  related  with:DNB 08
+A.Eggshell  skull  rule
+B.Master-servant  rule
+C.Avoidable  consequence  rule
+D.Common  knowledge  rule
+21.Medical negligence in which the patient contributed to
+the  injury  complained  of:DNB 09
+A.Civil  negligence
+B.Corporate  negligence
+C.Contributory  negligence
+D.Criminal  negligence
+22.Contributory  negligence  is  a  defense  in:
+AP  08;  Delhi  08;  Orissa  11
+A.Civil  negligence
+B.Criminal  negligence
+C.Ethical negligence
+D.Composite  negligence
+23.Vicarious  responsibility  pertains  to:Delhi  06
+A.Patient's,  contribution  towards  negligence
+B.Hospitals  contribution  towards  patient's  damage
+C.Responsibility  for  actions  of  a  colleague
+D.Responsibility  of  senior  for  actions  of  junior
+24.False  about  informed  consent:
+AIIMS  07
+A.Alternate  procedures/treatment  to  be  concealed
+from  the  patients
+B.Patient  must  be  told  about  the  risks
+C.Patient must be explained about the whole procedure
+D.Patient  must  be  explained  in  the  language  he
+understands
+25.A 13-year-old boy attends the surgery without an adult
+accompanying  him.  He  has  a  sore  throat.  Legally,  a
+general  practitioner  must:
+Karnataka  07
+A.Examine  and  prescribe  as  appropriate
+B.Refuse to see him unless a responsible adult is present
+C.Write to the parent asking them to come to the surgery
+D.Examine  but  not  prescribe
+26.Examining  the  patient  without  consent  amounts  to:
+Delhi  11
+A.AssaultB. Unethical
+C.IndecentD.Negligence
+27.A doctor while examining the patient without consent
+in  an  emergency  is  protected  under:
+Manipal  06;  Maharashtra  10
+A.Sec.  87  IPCB.Sec.  89  IPC
+C.Sec.  90  IPCD.Sec.  92  IPC
+28.A  d octor  has  to  do  an  urg ent  o peration  on   an
+unconscious  patient  to  save  his  life.  But  there  are  no
+relatives  to  take  consent.  He  goes  ahead  without
+obtaining  consent  from  anyone;  he  is  using  the
+principle  of:CMC  (Vellore)  09
+A.Therapeutic  privilege
+B.Doctrine  of  implied  consent
+C.Therapeutic  waiver
+D.Doctrine  of  informed  consent
+29.Consent  is  required  for:UP  11
+A.Mass  immunization
+B.Medico-legal  autopsy
+C.Pathological  autopsy
+D.Treatment  of  unconscious  patient
+30.Medical  records  to  be  preserved  for:Maharashtra  10
+A.1  yearB.3  years
+C.5  yearsD.10  years
+31.A  person  voluntarily  acting  like  having  a  disease  is
+said  to  be:Kerala  09
+A.HypochondriacB.Masochist
+C.GerontophiliaD.Malingerer
+32.In  a  comatose  patient,  when  life  support  itself  is
+withdrawn  is:Delhi  05
+A.Active  euthanasia
+B.Voluntary  euthanasia
+C.Involuntary  euthanasia
+D.Passive  euthanasia
